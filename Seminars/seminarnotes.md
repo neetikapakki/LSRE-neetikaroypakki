@@ -12,5 +12,29 @@ Exploration phase: Algorithms are developed on integer programming to find out t
 Consolidation phase: Algorithms are developed that helps the decision makers to understand the problem better. The decision made after solving the problems, help in reducing the size of the problem and the complexity for the next iteration. At the end of the paper, a problem is considered as an example and the solution process is discussed.
 
 
+SEMINAR:0 HOMEWORK
+summary for the article “A market-driven requirements engineering process:results from an industrial process improvement programme”.
+Basic idea of this paper: an improvement program REPEAT is developed that helps the improvement in release precision and product quality by considering the elements such as prioritisation of requirements, the effort estimation, the detailed requirements specification, and the continuous change management throughout design, implementation and verification that are used in the REPEAT.  
+This paper focuses on the requirement engineering processes used in package software companies. REPEAT (Requirements Engineering ProcEss At Telelogic) is used in- house at telegolic(a fast growing company) for extracting, selecting and managing the requirements on a product family called telelogic tau which is a software development environment for real time systems that uses graphical languages and provide code generator for integrating several real time operating system and is used by large telecommunication systems providers in their software development. REPEAT manages the requirements throughout the release cycle by including activities such as elicitation, selection, management, documentation and validation and release planning of the requirements. There are different actors involved in REPEAT such as Requirements Management Group (RQMG), issuer, customer and developer, requirements team, construction team, test team, experts, requirements database. The elicitation of the requirement is a continuous process and the issuer issues a requirement at any time based on the market need. The requirements are stored in the database with a unique identity so that in the REPEAT process each requirement has a life cycle processing through different stages. With the support of the experts, the RQMG decides on requirement transitions on the states such as new, assigned, classified, rejected, selected and applied. There are different phases involved in the process of REPEAT such as;
+Elicitation phase: in this phase the issuer collects the requirements and reasons for selecting that requirement along with its description is also given and is given an initial priority P.  These requirements are checked by the RQMG and sent back to the issuer for more clarification purpose of the requirement description. Then the experts classify the requirements to cost C and Impact effort estimation. If the effort is more than it is estimated, then the requirement is decomposed to smaller requirements considering the cost impact and the priority of the requirement.
+Selection phase: this phase involves activities such as selecting the requirement to be implemented in the current release, specifying the selected requirements in more detail and validating the requirement document. 
+Change management phase: based on the priority, the RD changes and when this happens a new requirement enters to the starting phases of the REPEAT process.
+Construction: this is made by using a iterative design and implementation process and unit test 
+Conclusion phase: final report is written which summarise the lesson learned in the REPEAT enactment.
+Verification: The implemented requirements that are in the selected list are verified against RD using requirements-  based testing method
+After this a partial process scenario model is designed that shows the event related to one requirement. And at the end of this paper, challenges such as over load control, connection fragment, cost value use case prioritisation etc were identified that are occurred while implementing REPEAT.
+SEMINAR 2 HOMEWORK:
+BOSTON MATRIX:
+Boston matrix that is developed by Boston Consulting Group (BCG) is a marketing tool that analysis and manages the product portfolio which helps the investor to decide on which product he/she has to invest. 
+Functionality of this tool:
+This tool classifies the products in four categories based in the market share and the market growth.
+1.	Dog: The products that are in dog category have low market share and low market growth. This means that these products do not consume nor will they generate much cost.
+2.	Cash Cow: the assets of the products are much higher than the market growth in this category. So they generate most income then that is consumed.
+3.	Question mark: these are the product that consumes large amount of cash by providing a high growth in the market and as they have low market share they don’t generate much income. These products can be places in the star category if the market share rises and also can be placed in cash cow if the market growth is slow.
+4.	Star: these products produce and consume large amount of cash because their market growth is high and at the same time its market share is equally high. When the market growth falls for these products, they will become cash cow.
+
+
+
+
 
 
