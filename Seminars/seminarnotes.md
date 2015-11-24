@@ -23,6 +23,8 @@ Construction: this is made by using a iterative design and implementation proces
 Conclusion phase: final report is written which summarise the lesson learned in the REPEAT enactment.
 Verification: The implemented requirements that are in the selected list are verified against RD using requirements-  based testing method
 After this a partial process scenario model is designed that shows the event related to one requirement. And at the end of this paper, challenges such as over load control, connection fragment, cost value use case prioritisation etc were identified that are occurred while implementing REPEAT.
+
+
 SEMINAR 2 HOMEWORK:
 BOSTON MATRIX:
 Boston matrix that is developed by Boston Consulting Group (BCG) is a marketing tool that analysis and manages the product portfolio which helps the investor to decide on which product he/she has to invest. 
