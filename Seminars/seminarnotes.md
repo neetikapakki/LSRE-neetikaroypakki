@@ -30,9 +30,13 @@ BOSTON MATRIX:
 Boston matrix that is developed by Boston Consulting Group (BCG) is a marketing tool that analysis and manages the product portfolio which helps the investor to decide on which product he/she has to invest. 
 Functionality of this tool:
 This tool classifies the products in four categories based in the market share and the market growth.
+
 1.	Dog: The products that are in dog category have low market share and low market growth. This means that these products do not consume nor will they generate much cost.
+
 2.	Cash Cow: the assets of the products are much higher than the market growth in this category. So they generate most income then that is consumed.
+
 3.	Question mark: these are the product that consumes large amount of cash by providing a high growth in the market and as they have low market share they don’t generate much income. These products can be places in the star category if the market share rises and also can be placed in cash cow if the market growth is slow.
+
 4.	Star: these products produce and consume large amount of cash because their market growth is high and at the same time its market share is equally high. When the market growth falls for these products, they will become cash cow.
 
 
