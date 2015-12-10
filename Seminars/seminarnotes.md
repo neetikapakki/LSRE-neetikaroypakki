@@ -1,6 +1,9 @@
 HOMEWORK 
+
 SEMINAR 0
+
 ARTICLE “The art and science of release planning"
+
 Through this paper, the author has expressed his views on what a release plan means, difficulties faced in creating a release plan and the different types of approaches to release plan. Release planning helps in decision making for selecting features and assigning them in order to create a sequence of consecutive products release. Creating a release plan is not an easy task. A proper understanding of the planning objectives, constrains and important stakeholders and the feature preference is necessary. RP rarely relies on a popular model or methodology. Optimal selection and selecting features involve the rise of the complexity factor. More time is consumed for planning and follow up re-planning is being practised.
 There are two kinds of approaches to the release planning.
 1.	The art of release planning approach: This approach is involves the human intelligence in handling the conflicting objectives and constrains.
