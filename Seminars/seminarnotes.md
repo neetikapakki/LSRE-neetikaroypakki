@@ -49,6 +49,42 @@ This tool classifies the products in four categories based in the market share a
 4.	Star: these products produce and consume large amount of cash because their market growth is high and at the same time its market share is equally high. When the market growth falls for these products, they will become cash cow.
 
 
+SEMINAR 0 HOMEWORK:
+
+Gap analysis:
+
+This analysis mainly focuses on what the business is doing currently and where it wants to reach. This analysis is carried out by identifying the gaps by the process of comparing the actual performance with the desire performance. In order to perform the gap analysis, it is important to understand the expectation level of the performance in a company so that comparison of the current performance level with the expected performance level is done.
+
+This analysis can be performed at the strategic level and the operational level.
+
+It provides the company/ organisation with a foundation for measuring investment of time/ money/ human resources required to reach the desire goal.
+
+This analysis can be used as a ranking of good, average and poor.
+
+Planning gap is the process of comparing the forecast profits to the desire profits of the company. Planning gap is divided into two main elements:
+
+1.	Usage gap:  This is the gap between the total potential for the market and the current usage by the consumers in the market.
+            Usage gap= market potential – existing usage
+
+2.	Product gap: A particular organisation is removed from the part of the market because of product or service characteristics.   
+
+Gap process includes the following steps:
+
+1.	Identifying the existing process: it is important to know what process/ method the company/ organisation is using.
+
+2.	Identifying the existing outcome: to identify the current status of the outcome that the company is producing.
+
+3.	Identifying the desire outcome: to identify what the company/ organisation wants.
+
+4.	Identifying the process to achieve the desire outcome: to identify the procedure or the process that the company/ organisation uses to achieve the desire outcome.
+
+5.	Identify and document the gap: to find the difference between the current outcome and the desire outcome.
+
+6.	Develop the means to fill the gap: develop and using the correct tools or techniques required to fill the gap and reach the desire goal.
+
+7.	  Develop and prioritise the requirements to bridge the gap.
+   
+	
 
 
 
