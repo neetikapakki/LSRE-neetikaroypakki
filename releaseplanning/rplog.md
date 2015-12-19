@@ -115,7 +115,6 @@ This option helps the course tutor to create a separate library which contains t
 
 
 Work:
-
 Among all the areas that are covered in the release planning, i have selected the area that deals with the calendar due to my personal interest on dealing with this area, so i have self-assigned those issues that are related to this area.
 i have started assigning myself to some of the issues #46(Access to personal calendar), # 45(Access to change course calendar), #20(Course calendar)in this area.
 
