@@ -88,18 +88,31 @@ Gap process includes the following steps:
 SEMINAR:4 HOMEWORK
 
 Some of the tools that are available for the requirement management are listed as follow:
+
 1.	Rational Suite Analyst Studio (Use CaseModeling).
+
 2.	Telelogic DOORS
+
 3.	Starbase Caliber-RM
+
 4.	RDT 3.0
+
 5.	RTM Workshop 5.0
+
 6.	CORE Enterprise
+
 7.	Vital-Link
+
 8.	XTie-RT
+
 9.	SLATE
+
 10.	icCONCEPT-RTM
+
 11.	RequisitePro
+
 12.	Caliber-RM
+
 13.	RDD-100
    
 	
