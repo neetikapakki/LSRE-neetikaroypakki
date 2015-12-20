@@ -115,7 +115,13 @@ Some of the tools that are available for the requirement management are listed a
 
 13.	RDD-100
    
-	
+
+Tools for agile requirements management:
+1.	Trace cloud
+2.	agileSpecs
+3.	Agile Designer
+4.	Agile Tailoring Tool (ATT)
+
 
 
 
