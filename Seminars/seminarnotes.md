@@ -88,7 +88,7 @@ Gap process includes the following steps:
 SEMINAR:4 HOMEWORK
 
 Some of the tools that are available for the requirement management are listed as follow:
-
+The tool for requirements management is used to manage the process steps “requirements analysis, allocation and flowdown and allocation of verification attributes”[1]. We also use requirement tools to prioritize requirements for testing process and also to store rquirement statements and the information about the requirement attributes. the requirements management tools work on maintaining the consistancy of the requirements, identifying undefined or missing requirements and also to trace through all levels of requirements. There are many requirement tools available. Few of them are listed below that were refered in some articles [2][3].
 1.	Rational Suite Analyst Studio (Use CaseModeling).
 2.	Telelogic DOORS
 3.	Starbase Caliber-RM
