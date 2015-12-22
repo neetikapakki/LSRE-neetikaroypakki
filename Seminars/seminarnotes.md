@@ -121,19 +121,27 @@ The order of magnitude in RE is based on the size of the sets of requirement tha
 The order to magnitude in RE are categorised in 4 levels.
 
 Level 1 - Small scale requirement engineering (SSRE)
+
 The order of magnitude (or) the number of requirements the organisation can handle is: 10
+
 Effort required: less effort 
 
 Level 2 – Medium scale requirement engineering (MSRE)	
+
  The order of magnitude (or) the number of requirements the organisation can handle is: 100
+
 Effort required: managing the set of requirements at this level is feasible but requires large effort.  
 
 Level 3 – Large scale requirement engineering (LSRE)
+
 The order of magnitude (or) the number of requirements the organisation can handle is: 1000
+
 Effort required: practically unfeasible but feasible among small bundles of requirements.  
 
 Level 4 – Very large scale requirement engineering (MSRE)
+
 The order of magnitude (or) the number of requirements the organisation can handle is: 10000
+
 Effort required: Managing a complete set of interdependencies among small bundles of requirements is unfeasible in practice.
 
 
