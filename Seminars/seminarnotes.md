@@ -144,6 +144,25 @@ The order of magnitude (or) the number of requirements the organisation can hand
 
 Effort required: Managing a complete set of interdependencies among small bundles of requirements is unfeasible in practice.
 
+SEMINAR 1:
+HOMEWORK QUESTION
+
+Road mapping:
+A roadmap is a strategic plan that provides the steps an organisation needs to take to achieve stated outcomes and goals. It provides vision to the links among tasks and priorities for action in the near, medium and long term. Metrics and milestone provided by the roadmap allow the organisation having a regular tracking of progress towards the goals.
+There are specific key elements of a successful roadmap:
+ 
+  A roadmap will contain a clear statement of desire outcome that follow a specific pathway for reaching the goal. The pathway contains the following:
+  
+1.	Goals: A clear and concise set of targets that, if achieved, will result in the desired outcome; quantified goals.
+
+2.	Milestones: the interim performance targets for achieving the goals, pegged to specific dates.
+
+3.	Gaps and barriers: a list of any potential gaps in knowledge, technology limitations, market structural barriers, regulatory limitations, public acceptance or other barriers to achieving the goals and milestones.
+
+4.	Action items: actions that can be taken to overcome any gaps or barriers that stand in the way of achieving the goals; typical solution actions include technology development and deployment, development of regulations and standards, policy formulation, creation of financing mechanisms, and public engagement.
+
+5.	Priorities and timelines: a list of the most important actions that need to be taken in order to achieve the goals and the time frames, taking into account interconnections among those actions and stakeholder roles and relationships.
+
 
 
 
