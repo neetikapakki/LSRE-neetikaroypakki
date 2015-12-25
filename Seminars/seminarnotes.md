@@ -163,6 +163,8 @@ There are specific key elements of a successful roadmap:
 
 5.	Priorities and timelines: a list of the most important actions that need to be taken in order to achieve the goals and the time frames, taking into account interconnections among those actions and stakeholder roles and relationships.
 
+IVA
+Internal Value analysis is a technique to measure whether a product is following the proposed strategy by meeting the product line at every stage.  
 
 
 
