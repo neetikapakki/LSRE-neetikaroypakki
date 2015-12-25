@@ -164,7 +164,12 @@ There are specific key elements of a successful roadmap:
 5.	Priorities and timelines: a list of the most important actions that need to be taken in order to achieve the goals and the time frames, taking into account interconnections among those actions and stakeholder roles and relationships.
 
 IVA
-Internal Value analysis is a technique to measure whether a product is following the proposed strategy by meeting the product line at every stage.  
+Internal Value analysis is a technique to measure whether a product is following the proposed strategy by meeting the product line at every stage by considering limited resource such as cost, time, risk and knowledge. 
+References 
+[1]   T. Gorschek and A. M. Davis, “Requirements engineering: In
+search of the dependent variables,” Inf. Softw. Technol., vol. 50, no.
+1–2, pp. 67–75, 2008.  
+
 
 
 
