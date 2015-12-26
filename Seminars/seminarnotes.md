@@ -170,6 +170,64 @@ References
 search of the dependent variables,” Inf. Softw. Technol., vol. 50, no.
 1–2, pp. 67–75, 2008.  
 
+SEMINAR 1:
+
+HOMEWORK ARTICLE:
+
+Aim:
+
+This paper focuses on the importance and analysis of QR in different companies.
+Data collection area:
+The data is collected by carrying out a semi structured interview which is conducted to the one project manager and one product leader each from 11 different industries that are selected by the gate keeper of corresponding industries that examines QR in practice. The collected data also includes the perspective of comparing B2B and B2C analysis which presents new data from all 11 cases.
+4 RQ’s where formed and analysis of QR in related to each of the RQ is done by interviewing the 22 participators of 11 companies from various perspectives.
+
+RQ1: What QR’s are considered most important and are there any distinguishably characteristics in relation to costumer type (B2B or B2C)?
+
+RQ2: What interdependencies between QR are present in the companies?
+	
+	RQ2.1: What interdependencies are deemed most important, and how does this compare to the previous studies?
+	
+	RQ2.2: To what extent are interdependencies elicited analysed and documented?
+
+RQ3: How are cost estimations of QR are performed, and what is the accuracy of these cost estimates?
+
+RQ4: To what extent are QR dismissed from the project after project initiation?
+	
+	RQ4.1: If QR‘s are dismissed, is any consequences analysis performed pre– post dismissal?
+	
+	RQ4.2: Are RQ’s are specified in a measurable manner?
+
+In relation to RQ1, for the findings the researchers have considered few Quality requirements such as usability, performance, reliability, stability and etc and researchers have tried to found out which requirement is considered most important. For B2B usability is considered most important and for B2C safety is considered most important. Depending on the company type the researchers enable to focus on certain quality aspects. Not all QR’s are given the same importance in all the companies. Each requirement is given different priorities based on the type of company and its specifications. Aimed approach could be one of the solutions in handling the different types of requirements in different types on companies.
+In relation to RQ2 a set of six predefined interdependency types (AND, REQUIRES, TEMPORAL, CVALUE, ICOST, OR) were used by the interviewees to characterize perceived interdependencies, both among different QR and interdependencies between QR and FR. TXOR (time related exclusive) is an additional interdependency a  interviewee added  when given an option to add any additional interdependencies. The findings for RQ2, interdependencies, show that:
+
+1)	REQUIRES and CVALUE are considered as the most common and important interdependency types to identify.
+
+2)	B2B viewed REQUIRES as the most common and important one, B2C considered CAVLUE.
+
+3)	AND and OR were considered the least common and least important interdependency types.
+
+The reason for dealing with interdependencies is a complex task and the number of potential dependencies may be very large, resulting in an ad hoc approach to interdependency management where only a limited set of critical interdependencies are dealt with. Interdependencies can have a critical impact on product development in terms of planning, design, and quality. One of the interviewee stated that QR are assumed and so not actively looked for whereas another employee stated that the main focus should be on the functionality that will fulfil the customer needs and not on reflecting over QR. Moreover after the complete analysis, five of the companies reported that the order of implementation is affected by interdependencies where as the other company reported that delays or exclusions of requirements may be the result of QR interdependencies, which also affects what is implemented. The rest companies stated that the quality of the product is affected, e.g., performance and maintainability.
+
+In relation to RQ3, cost estimation of QR, the findings show that:
+
+1. There is no distinction between FR and QR during cost estimation.
+
+2. Expert opinion is the predominant method for estimation.
+
+3. In the worst case, B2B has much more inaccurate estimates than B2C.
+
+ It is important to estimate the QR which is related to the impact of the entire system and span over all FR because this will make it difficult to estimate cost accurately. The major reasons for inaccurate estimates of requirements are overoptimistic estimates and user changes or misunderstandings. Therefore, it is important for practitioners to understand that estimates of QR demand a deeper analysis, and using the same resources and methods for QR and FR may not provide accurate estimates.
+
+The findings for RQ4, dismissal of QR, show that:
+At many cases there is a disagreement between the PM and the PL of the same companies in the issue related to the view of how often QR are quantified. In some cases the PM views differed, stating always or never. Almost in all the companies the views of the PM and the PL were quite different. This is due the communication gap between the PM and the PL. The analysis shows that:
+
+1.	All QR are dismissed from the projects at some stage during development, with little or no consequence analysis performed.
+
+2.	For B2C, performance requirements are more often dismissed due to the difficulties in proper estimation, while for B2B, QR that are not considered important, for example, usability, are more often dismissed than performance requirements.
+
+3.	Poor cost estimation and the fact that QR has lower priority than FR are the main reason for dismissal.
+
+It is important to acknowledge the participator about the importance of QR needs not only in theory but also in practice. It is important for them to understand and accept the fact that the dismissal of the QR may solve a short term problem but on a long term basis it will reduce the competitive advantages and the value of the system. To lower the dismiss rate of QR by improving the specification and quantification of the more difficult ones, it may be easier to keep them in the project instead of dismissing them when running out of time. 
 
 
 
