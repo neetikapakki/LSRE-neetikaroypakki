@@ -198,6 +198,7 @@ RQ4: To what extent are QR dismissed from the project after project initiation?
 	RQ4.2: Are RQ’s are specified in a measurable manner?
 
 In relation to RQ1, for the findings the researchers have considered few Quality requirements such as usability, performance, reliability, stability and etc and researchers have tried to found out which requirement is considered most important. For B2B usability is considered most important and for B2C safety is considered most important. Depending on the company type the researchers enable to focus on certain quality aspects. Not all QR’s are given the same importance in all the companies. Each requirement is given different priorities based on the type of company and its specifications. Aimed approach could be one of the solutions in handling the different types of requirements in different types on companies.
+
 In relation to RQ2 a set of six predefined interdependency types (AND, REQUIRES, TEMPORAL, CVALUE, ICOST, OR) were used by the interviewees to characterize perceived interdependencies, both among different QR and interdependencies between QR and FR. TXOR (time related exclusive) is an additional interdependency a  interviewee added  when given an option to add any additional interdependencies. The findings for RQ2, interdependencies, show that:
 
 1)	REQUIRES and CVALUE are considered as the most common and important interdependency types to identify.
@@ -227,7 +228,7 @@ At many cases there is a disagreement between the PM and the PL of the same comp
 
 3.	Poor cost estimation and the fact that QR has lower priority than FR are the main reason for dismissal.
 
-It is important to acknowledge the participator about the importance of QR needs not only in theory but also in practice. It is important for them to understand and accept the fact that the dismissal of the QR may solve a short term problem but on a long term basis it will reduce the competitive advantages and the value of the system. To lower the dismiss rate of QR by improving the specification and quantification of the more difficult ones, it may be easier to keep them in the project instead of dismissing them when running out of time. 
+It is important to acknowledge the participator about the importance of QR needs not only in theory but also in practice. It is important for them to understand and accept the fact that the dismissal of the QR may solve a short term problem but on a long term basis it will reduce the competitive advantages and the value of the system. To lower the dismiss rate of QR by improving the specification and quantification of the more difficult ones, it may be easier to keep them in the project instead of dismissing them when running out of time. However, the main problem is that QR are not taken into consideration during product planning and thus not included as hard requirements in the projects, making the realization of QR a reactive rather than a proactive effort. Product management may thus not be able to plan and rely on QR to achieve competitive advantages.
 
 
 
