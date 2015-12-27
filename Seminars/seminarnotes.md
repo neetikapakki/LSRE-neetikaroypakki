@@ -231,4 +231,15 @@ At many cases there is a disagreement between the PM and the PL of the same comp
 It is important to acknowledge the participator about the importance of QR needs not only in theory but also in practice. It is important for them to understand and accept the fact that the dismissal of the QR may solve a short term problem but on a long term basis it will reduce the competitive advantages and the value of the system. To lower the dismiss rate of QR by improving the specification and quantification of the more difficult ones, it may be easier to keep them in the project instead of dismissing them when running out of time. However, the main problem is that QR are not taken into consideration during product planning and thus not included as hard requirements in the projects, making the realization of QR a reactive rather than a proactive effort. Product management may thus not be able to plan and rely on QR to achieve competitive advantages.
 
 
+SEMINAR 3
+HOMEWORK ARTICLE
 
+“What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting”
+
+The change in the decision on which feature or requirement has to be added or removed from the developing system depends on the change in the circumstances and demands for future improvement of the system.  This may cause dynamic evolution of the scope of software asset investments. In order to solve this problem, the researchers have presented a technique called Feature Survival Charts for visualization of scoping change dynamics. It is not practically possible to consider large number of requirements, so it is important to select a subset of requirements that can be useful for the upcoming improvement of any specific system. This process of selecting the requirements is called scoping. The proposed set of scope tracking measurements complements the proposed visualization technique, and they aim at further increasing the understanding of the rationale and dynamics of scope changes. In scope tracking measurement the questions were formulated related to the external attributes of the scoping process which also connects to the internal attributes. The set of five scope tracking measurements is divided into time related measurements and feature related measurements are mentioned below.
+Number of positive and negative scope changes per time stamp/baseline (M1) – This measurement comes under the 
+Time to feature removal (M2)
+Number of state changes per feature (M3)
+Time to birth (M4)
+Reason for scoping decision (M5)
+The visualization technique provides feedback about ongoing scoping activities as well as a visualization of past project scoping activities. 
