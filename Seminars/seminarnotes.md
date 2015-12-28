@@ -243,3 +243,18 @@ Number of state changes per feature (M3)
 Time to birth (M4)
 Reason for scoping decision (M5)
 The visualization technique provides feedback about ongoing scoping activities as well as a visualization of past project scoping activities. 
+
+
+SEMINAR 1 HOMEWORK QUESTION
+
+Continuous Integration:
+
+Continuous integration is a process in which developers integrate code into shared repository several times in a day in order to reduce the risk factor  
+
+Tools used for continues integration are as follow:
+1.	Jenkins
+2.	Buildbot
+3.	Travis CI
+4.	Strider
+5.	Go
+6.	Integrity  
