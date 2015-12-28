@@ -252,9 +252,15 @@ Continuous Integration:
 Continuous integration is a process in which developers integrate code into shared repository several times in a day in order to reduce the risk factor  
 
 Tools used for continues integration are as follow:
+
 1.	Jenkins
+
 2.	Buildbot
+
 3.	Travis CI
+
 4.	Strider
+
 5.	Go
+
 6.	Integrity  
