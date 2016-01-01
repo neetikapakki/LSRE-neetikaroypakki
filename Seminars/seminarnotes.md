@@ -264,3 +264,20 @@ Tools used for continues integration are as follow:
 5.	Go
 
 6.	Integrity  
+
+
+
+SEMINAR 0
+
+HOMEWORK QUESTIONS
+
+Any large organisation needs an efficient RE process where the number of new requirements increases whiles the management resources cannot be increased accordingly.  The RE process is often described as cyclic with each cycle consisting of elicitation, analysis and validation activities [1] [2]. Large scale requirement engineering (LSRE) is defined based on the size of the requirements set that is considered in the market driven requirements. Generally in large scale requirement engineering the order of magnitude exceeds 1000 requirements. Managing a complete set of interdependencies in LSRE is practically unfeasible, but feasible among small bundles of requirements [3].
+References:
+
+[1]	S. Aaramaa, T. Kinnunen, J. Lehto, and N. Taušan, “Managing Constant Flow of Requirements : Screening Challenges in Very Large-Scale,” pp. 123–137.
+
+[2]	L. N. Æ. P. A. Swatman, “Managing the requirements engineering process,” pp. 55–68, 2003.
+
+[3]	B. Regnell, R. B. Svensson, and K. Wnuk, “Can We Beat the Complexity of Very Large-Scale Requirements Engineering ? 2 Orders of Magnitude in Requirements Engineering.” 
+
+
