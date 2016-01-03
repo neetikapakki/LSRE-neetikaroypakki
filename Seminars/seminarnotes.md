@@ -280,4 +280,82 @@ References:
 
 [3]	B. Regnell, R. B. Svensson, and K. Wnuk, “Can We Beat the Complexity of Very Large-Scale Requirements Engineering ? 2 Orders of Magnitude in Requirements Engineering.” 
 
+SEMINAR 1
+HOMEWORK ARTICLE
+
+“Requirement Abstract model”
+
+Requirement abstract model (RAM) mainly focuses on the product perspective, supporting a continuous requirement engineering effort, aimed at taking requirements of multiple types (abstraction level) as input, and offers a structure for the work-up of these requirements, i.e., breaking down abstract requirements into detailed ones and vice versa.
+
+This model involves three steps.
+
+1.	Specify:
+
+This involves specifying the initial requirements and eliciting information to an extent of it being understood by the project manager performing continues requirements engineering. This step includes four attributes;
+
+a.	Description: this attribute describes the centre essence of the requirements.
+
+b.	Reason/ benefits/ rationale: this attributes consist of 2 parts. Why the requirements are specified and benefits of the requirements specified. 
+
+c.	Risk: this attributes describes the risks with the requirements that are not specified.
+
+d.	Title: this attribute should reflect the content of the requirement.   
+
+2.	Place:
+
+ This step analyse the requirements and place them in the level they belong. There are four levels: product level, feature level, functional level and the component level. In product level, the main focus will be on the goals, product strategies and indirectly on the organization strategies. Requirements which are features of the product are placed at the feature level. Features are characteristics of the system; requirements at this level provide abstract descriptions of these characteristics. At the functional level each requirement is described in such a way that it clearly shows what a user or system can do. In the component level the Requirements will have detailed information. Component Level can also act as clarification to one or more Function Level requirements.
+
+3.	Abstraction:
+This step involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. New requirements are created on adjacent abstraction levels or linking to already existing one, depending on the situation. Every requirement has to be abstracted to the product level. For this 2 rules are set up.
+
+R1. No requirement may exist without having a connection to the Product Level.
+
+R2. All requirements have to be broken down to Function Level.
+
+An example is considered that shows the work-up process of this model where the original requirement that belongs to the feature level is considered. According to the R1, it is mandatory to connect the original requirement in the feature level to the product level by creating the requirements. After which R2 is followed, where all the requirement are to be broken down to the functional level by creating the requirements. The breakdown to Component Level offers further details to relatively low-level requirements and is often associated with suggestions of how to implement a requirement.
+There are additional attributes other then the attributes mentioned in the specify step. Requirement Source, Requirement Owner, Requirements Manager, Relation/dependency, State, Reject reason, Due date, Version, Date of creation, Last changed are the additional attributes that can be mandatory (manual or auto generated), optional. Further these attributes are related to either traceability or roles attribute or to process attribute.
+
+Later in this article the state of the requirements in RAM is explained using a diagram.
+There are generally four states a requirement be in. 
+
+A.	Draft requirement
+
+B.	Rejected requirement
+
+C.	Incompletely specified
+
+G.	Refined requirement  
+
+In continuous RE, a requirement X is drafted to state A. Here if the requirement is incomplete it is sent to the state C or it is sent to state B if the requirement is out of scope. If it does not belong to both the states, then it is accepted for prioritization and sends to state D (internal prioritized requirement). If we find out that this requirement has low priority i.e. it is out of scope for the current plan then it is send to the state E (postponed requirements). After the requirement is prioritized, it is accepted for the plan and sent to the state F (planned requirement) and further sent to state G (refined requirement) and these requirements to designed are sent to started requirement state H, after which the process in completed. Requirements with the lower priority are send back to state E from state F, G, H. 
+
+In the next section of this paper, validation of RAM in industry against an organization faced with the improvement issues is discussed. There are two types of validation.
+
+1.	Static validation: The static validation consists of reviews and walkthroughs of RAM
+
+2.	Dynamic validation: the dynamic validation consists of a live industry requirements engineering effort where the model was put through its phases.
+
+The roles involves in Static Validation One involved eliciting feedback/ input regarding RAM:
+
+(A) Product Manager (two persons interviewed)
+
+(B) Ordered (one person interviewed)
+
+(C) Project Manager (two persons interviewed)
+
+(D) System Engineer (one person interviewed)
+
+The roles involve in Static Validation Two involved eliciting feedback/ input regarding RAM:
+
+(E) Developer (one person interviewed)
+
+(F) System Test (one person interviewed)
+
+(G) Upper Management (one person interviewed)
+
+Dynamic validation:
+
+ As the RAM model is completed, it is set to be tested in live development situation. The idea was to use the model for actual requirements engineering in order to validate its components and to check if the model was scalable to a real development situation. During the process of this type of validation, few questions are generated considering several aspects of RAM.
+At the end this paper concludes stating the importance and the usage of the requirement abstract model. This will give clarity about the requirements and helps in taking decision for any future work on a particular requirement.
+
+
 
