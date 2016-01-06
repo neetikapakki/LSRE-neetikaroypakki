@@ -118,3 +118,9 @@ Work:
 Among all the areas that are covered in the release planning, i have selected the area that deals with the calendar due to my personal interest on dealing with this area, so i have self-assigned those issues that are related to this area.
 i have started assigning myself to some of the issues #46(Access to personal calendar), # 45(Access to change course calendar), #20(Course calendar)in this area.
 
+Work 
+In this week, I have also assigned few more issues which come under the area I am interested in and also the issues that i have created.  The issues that are selected are as follow:
+#25 (User calendar) # 43 (CRUD Calendar item) #44 (Synchronise Calendar) #66 (Calendar Items content) #70 (Cannot import calendar) #105( course library) #106 (Access to Add, Edit, Delete the books in the course library).
+Later in the same week, a joint meeting of all our course mates was conducted. As each milestone is associated with a particular goal, we have identified those requirements that are needed to reach the goal and only these requirements that are needed were placed under the corresponding goals. The next step was, we have selected grouping technique (MoSCoW) for prioritising the requirements in different classes such as Must have, Should have, could have and would have under each goal based on the customer value. The implementation of this technique depends on the availability of time and resources. If the organization has sufficient time and resources, all the requirements are implemented. After this meeting, I came to know which requirement belongs to which milestones. So I have listed all the requirements that I have assigned and placed them in the milestones they belong to.
+
+
