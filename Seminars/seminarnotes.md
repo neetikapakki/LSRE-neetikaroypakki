@@ -236,13 +236,19 @@ HOMEWORK ARTICLE
 
 “What Happened to Our Features? Visualization and Understanding of Scope Change Dynamics in a Large-Scale Industrial Setting”
 
-The change in the decision on which feature or requirement has to be added or removed from the developing system depends on the change in the circumstances and demands for future improvement of the system.  This may cause dynamic evolution of the scope of software asset investments. In order to solve this problem, the researchers have presented a technique called Feature Survival Charts for visualization of scoping change dynamics. It is not practically possible to consider large number of requirements, so it is important to select a subset of requirements that can be useful for the upcoming improvement of any specific system. This process of selecting the requirements is called scoping. The proposed set of scope tracking measurements complements the proposed visualization technique, and they aim at further increasing the understanding of the rationale and dynamics of scope changes. In scope tracking measurement the questions were formulated related to the external attributes of the scoping process which also connects to the internal attributes. The set of five scope tracking measurements is divided into time related measurements and feature related measurements are mentioned below.
+The change in the decision on which feature or requirement has to be added or removed from the developing system depends on the change in the circumstances and demands for future improvement of the system.  This may cause dynamic evolution of the scope of software asset investments. In order to solve this problem, the researchers have presented a technique called Feature Survival Charts for visualization of scoping change dynamics. It is not practically possible to consider large number of requirements, so it is important to select a subset of requirements that can be useful for the upcoming improvement of any specific system. This process of selecting the requirements is called scoping. The proposed set of scope tracking measurements complements the proposed visualization technique, and they aim at further increasing the understanding of the rationale and dynamics of scope changes. The visualization technique provides feedback about ongoing scoping activities as well as a visualization of past project scoping activities. In scope tracking measurement the questions were formulated related to the external attributes of the scoping process which also connects to the internal attributes. The set of five scope tracking measurements is divided into time related measurements and feature related measurements are mentioned below.
 Number of positive and negative scope changes per time stamp/baseline (M1) – This measurement comes under the 
 Time to feature removal (M2)
 Number of state changes per feature (M3)
 Time to birth (M4)
 Reason for scoping decision (M5)
-The visualization technique provides feedback about ongoing scoping activities as well as a visualization of past project scoping activities. 
+
+For the purpose of scoping decision, the measurements discussed complement the visualization technique by quantitative characterization and qualitative rationale. The practitioners have highlighted the usefulness of the visualization technique and the scope tracking technique since they confirm the volatility of the scope and provide a tool to analyze the various aspects of this phenomenon. Case companies have use this results to adjust the process of scope setting decision more flexible. The results give a better overview of the scoping process of the whole project on a single page size graph. This method can be used in large scale projects and also if the characteristic of the scope changes, the manner in which the graphs together with measurements are used to increase the understanding of the performance of the scoping process is generally applicable.
+Limitation:
+1.	One threat is related to the mapping between measurements and external attributes.
+2.	Another threat is related to the generalization of the results.
+
+
 
 
 SEMINAR 1 HOMEWORK QUESTION
