@@ -419,6 +419,60 @@ In the later sections of this paper, the evaluation methodology of QUPER as it w
 While comparing both the articles i.e. “Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model” and “A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”, it was found out that the authors of both the papers has considered the quality requirements and have show practical results of the implementation of the QUPER model but in one paper the author has also included the cost dependencies among the quality requirements.
 
 
+SEMINAR 2
+ HOMEWORK ARTICLE
+“Towards a Reference Framework for Software Product Management”
+In this paper a framework is developed that provides the structure to the knowledge for a body of knowledge for software product management. A clear explanation of how a software product management process is carried out entirely by an organization and the structure of the software product management is not provided clearly. The authors of this paper has considered this as a research gap and developed a reference framework based on overview of state-of-the-art literature and industrial case studies. This framework explains the process carried out by the product manager during the software product management and also helps in identifying the stakeholders for the product and their relation during the software product management. This framework divides the software product management into four parts:
+Portfolio management: Portfolio management entails the decision making about the set of existing products, introducing new products by looking at market trends and the product
+development strategy, making decision about the product lifecycle, and establishing partnerships and contracts. It deals with the products in the product portfolio (no of products a company has).
+Product release planning: Software release management is the process through which software is made available to, and obtained by, its users. Especially on the area of release planning, where the set of requirements for the next release is determined, much research has been carried out. It is used to identify the different releases of a product
+Product road mapping: Receives input regarding product lines from portfolio management. It deals with the set of requirements that are to be released. 
+Requirements management: Requirements management contains the activities of gathering, identifying, revising and organizing incoming requirements from the various stakeholders. Requirements management is a key area in product software companies. It deals with the content of each individual requirement.
+These four processes are carried out as follow:
+Portfolio management process involves four tasks
+•	Partnering and contracting
+•	Market trend identification
+•	Product life cycle management
+•	Product line identification
+The input for this process helps in making the decision about the development strategy and lifecycle. A software product line is identified in this process which serves as an input for product road mapping.
+ Product road mapping process involves these tasks
+•	Theme identification
+•	Core asset identification
+•	Road map construction
+This process receives input as product lines from portfolio management. This helps in identifying the themes and core assets. This roadmap also acts as an input to the requirements organization.
+Requirements management process involves these three tasks
+•	Requirements gathering
+•	Requirements identification
+•	Requirements organizing.
+In this process the inputs are gathered from different stakeholders and were indentified. The product requirements are grouped according to the product and core asset.
+Product release planning mainly involves these five tasks.
+•	Requirements prioritization
+•	Requirements selection
+•	Release definition
+•	Release verification
+•	Launch application
+Takes the input from the requirements management process where some of the prioritized requirements are selected. For these requirements, a release is prepared and different internal stakeholder validates it and sent it to the board for approval. Once the approval is received, the implementation process starts and the launch preparation package is delivered to the stakeholders.
+As this framework also helps in identifying the stakeholders. Some of the stakeholders that are identified and mentioned in this framework are
+•	External Stakeholders
+o	Market
+o	Partner companies
+o	Customers
+•	Internal stakeholders
+o	Development
+o	Support
+o	Service
+o	Research and innovation
+o	Sales and marketing
+o	Company board
+This paper discuss what a software product management is by explaining each and every step involved in the software product management clearly. 
+ 
+
+
+
+
+
+
+
 
 
 
