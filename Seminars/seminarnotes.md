@@ -363,5 +363,40 @@ Dynamic validation:
  As the RAM model is completed, it is set to be tested in live development situation. The idea was to use the model for actual requirements engineering in order to validate its components and to check if the model was scalable to a real development situation. During the process of this type of validation, few questions are generated considering several aspects of RAM.
 At the end this paper concludes stating the importance and the usage of the requirement abstract model. This will give clarity about the requirements and helps in taking decision for any future work on a particular requirement.
 
+SEMINAR 0
+HOMEWORK ARTICLE 
+
+“Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model”
+
+This paper highlights the importance of finding the right balance among competing quality requirements for market success.  For this purpose a model is developed that uses quality dimensions with addition to the cost and value dimensions while prioritizing the functional requirements. This paper presents a quality performance (QUPER) model which supports release planning and road mapping of quality requirements and it also presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The main purpose of this is to investigate the implementation of QUPER in industry. This model involves three steps.
+
+Step1.  Problem definition
+
+Step2.  Model definition
+
+Step3. Model validation
+
+In the first step, the understanding of different requirement decision scenarios is done along with the identification of the need for a cost-benefit model including quality aspects to support road mapping and scoping.
+
+The second step is based on the inputs of the first step. This step includes three kinds of view (QUPER benefit view, QUPER cost view, QUPER roadmap view)
+In the QUPER benefit view, three breakpoints that indicate the principal changes in the benefit level with respect to experience and market value. A breakpoint is an important aspect of non-linear relation between quality and benefit. The three breakpoints are listed below:
+a.	The utility breakpoint: represents the border between a quality level useless and useful quality.
+b.	The differentiation breakpoint: represents the shift from useful to competitive quality, which makes them have a competitive market proposition.
+c.	The saturation breakpoint: breakpoint imply a change in quality level from competitive to excessive quality, where higher quality levels have no practical impact on the benefit in the particular usage context considered.
+In QUPER cost view, the notation of cost barriers that represents the non-linear relation between quality and costs is included.
+In QUPER roadmap view, combines benefit and cost views by position the breakpoints and barrier together ordered on the same scale.
+
+In the third step the evaluation of the model which is generally carried out through interviews and expert decisions is included.
+All the above three steps are carried out in Ericsson by considering only benefit view since it is the most important part of the QUPER model. This implementation process is done in four steps:
+1.	Define quality aspects.
+2.	Estimate your product’s current quality and the competing products’ quality.
+3.	For each quality aspect and for each relevant qualifier, estimate the breakpoints.
+4.	Estimate candidate targets and discuss and decide on actual targets for coming releases.
+
+Later in this paper a detailed description of practical application of QUPER model by conducting interviews and involving experts of the company. The results indicate that the quality performance model provides helpful information about quality requirements in release planning. And also the main identified challenge was difficulties to identify and specify the values for the differentiation and saturation breakpoints. Furthermore, different understanding of the breakpoints value among the staff was raised as a challenge.
+
+
+
+
 
 
