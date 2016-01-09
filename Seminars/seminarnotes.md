@@ -507,6 +507,39 @@ o	Sales and marketing
 o	Company board
 
 This paper discuss what a software product management is by explaining each and every step involved in the software product management clearly. 
+
+
+SEMINAR 2
+HOMEWORK ARTICLE "Obsolete software requirements"
+
+The authors of this paper mainly concentrated on understanding the nature of obsolete requirements and their role in requirements management. Software, as a business, is a demanding environment where a growing number of users, rapid introduction of new technologies, and fierce competition are inevitable. Obsolete requirements could dramatically extend project timelines, increase the total cost of the project or even cause project failure. Thus, the identification, handling, and removal of obsolete requirements are crucial. Some of the reasons for the cause of obsolete software requirements are mentioned.
+
+•	Scope creep
+
+•	Requirements creep
+
+•	Requirements leakage
+
+A survey is conducted and investigated the phenomenon of obsolete requirements and effort required to handle the obsolete requirements in industrial practice. This survey is conducted based on the research questions that were formed. 
+
+1.	The obsolete software requirements create serious impact in industry practice.
+
+2.	Requirements related to standards and laws are the least likely to become obsolete, while inconsistent and ambiguous requirements are the most likely to become obsolete. 
+
+3.	OSRs identification is predominantly a manual activity.
+
+4.	The identified OSRs should be kept in the requirements document or the database, but tagged as obsolete.
+
+5.	Project managers and product managers indicate that they always find OSRs in their work even if many of the respondents do not actively look for them.
+
+6.	OSRs are more likely to affect Large-scale requirements (LSRE) and Very large-scale requirements projects (VLSRE).
+
+7.	OSRs should first of all be handled during the Requirements analysis and Requirements validation phases.
+
+8.	The results point to the lack of methods and routines for actively handling OSRs as a central determinant.
+
+
+
  
 
 
