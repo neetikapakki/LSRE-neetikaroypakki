@@ -537,6 +537,10 @@ A survey is conducted and investigated the phenomenon of obsolete requirements a
 7.	OSRs should first of all be handled during the Requirements analysis and Requirements validation phases.
 
 8.	The results point to the lack of methods and routines for actively handling OSRs as a central determinant.
+	
+From this article, I have learnt that it is not an easy task to handle the obsolete requirements. And if the management of these requirements are poor, then there will be a immense effect on the organization or company. 
+
+
 
 
 
