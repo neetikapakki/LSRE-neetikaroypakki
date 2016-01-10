@@ -431,7 +431,7 @@ b.	 With only a Stretch target, which means the highest value is specified.
 
 c.	 With only a Good target, which means the lowest accepted value is specified.
 
-7.	Identify cost dependencies: If cost dependencies among QR are considered important to identify for cost estimations, then, for each top-n QR, identify which modules that needs to be changed if that QR is to be improved beyond the ”next” breakpoint.
+7.Identify cost dependencies: If cost dependencies among QR are considered important to identify for cost estimations, then, for each top-n QR, identify which modules that needs to be changed if that QR is to be improved beyond the ”next” breakpoint.
 
 With the help of these steps, explanation of a practical view of QUPER model is given with the help of figures. 
 In the later sections of this paper, the evaluation methodology of QUPER as it was evaluated in industry with a case company by finding out the answer for the research question that states “What are practitioners’ views on the utilities of QUPER extended with guidelines including domain-specific examples?” after the collection of the results we can gain the practical knowledge of applying this model and also helps to understand the problems that may arise while applying this model practically.
