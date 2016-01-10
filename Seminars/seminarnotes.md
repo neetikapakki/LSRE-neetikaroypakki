@@ -559,6 +559,61 @@ A survey is conducted and investigated the phenomenon of obsolete requirements a
 8.	The results point to the lack of methods and routines for actively handling OSRs as a central determinant.
 	
 From this article, I have learnt that it is not an easy task to handle the obsolete requirements. And if the management of these requirements are poor, then there will be a immense effect on the organization or company. 
+SEMINAR 2 HOMEWORK ARTICLE:
+
+“An Industrial Survey of Requirements Interdependencies in Software Product Release Planning”
+
+The task of finding an optimal selection of requirements for the next release of a software system is difficult as requirements may depend on each other in complex ways. The task of scheduling an optimal selection of requirements for a particular increment is as complex as it is important. The main aim of this paper is to find out strategies for reducing the effort needed for identifying and managing interdependencies. The authors of this paper mainly concentrated on identifying the nature and frequency of requirements interdependencies and their importance in software release planning. An informal survey was conducted and identified six different planning parameters that need to be considered and satisfied for release planning they are 
+
+•	Available resources
+
+•	Delivery time
+
+•	Requirements interdependencies
+
+•	Requirements priority
+
+•	System architecture and
+
+•	Dependencies to code base
+
+In the incremental process, it is important to prioritise the requirements. But because of the interdependencies between the requirements, it is difficult to prioritise the requirements. As the main aim is to identify the nature and frequency of requirements interdependencies, a survey is conducted in 5 companies. among the five cases, three of the cases can be labelled as product development, meaning that there was a mature product out on the market, and the development situation can be described as incremental and market-driven and The remaining two cases can be labelled as bespoke, meaning that there was no released version of the product on the market, and there was a specific customer paying for the development. Later in the data collection phase, the requirement managers were asked to select 20 high priority requirements from the current requirements repository. They are requested to prioritize the requirements without considering the interdependencies among each other and pair wise considerations are done for all the 20 requirements.  For each pair of requirements there were a number of considerations to make such as:
+
+a.	No relation whatsoever could be found. In this case the RM was asked how certain he was of this, on the scale {Possibly, 
+Probably, Positively).
+
+b.	The relation between the requirements is found. This relation is identified using classification schema.
+
+A preliminary set of interdependency types were created. The six types of interdependencies are as follow:
+
+1.	AND
+
+2.	REQUIRES
+
+3.	TEMPORAL
+
+4.	CVALUE
+
+5.	ICOST
+
+6.	Or
+
+It is important that the functional interdependencies should have higher priority than the value related interdependencies. The interdependencies are prioritized in the following order:
+
+1.	AND has the highest priority
+
+2.	REQUIRES has the second priority
+
+3.	TEMPORAL can be either functional related or value related. It can be either REQUIRES or ICOST. The priority order is next to the REQUIRES.
+
+4.	ICOST and CVALUE come under the same priority. As both of them are value related dependencies. If a conflict arises between these two then a trade-off should be considered. The CVALUE interdependency type plays a major role in the release planning.
+
+5.	OR has the least priority.
+
+Later in this paper, visualization technique is used which is applied to the requirements and their interdependencies in order to support release planning. This technique is used for identification of the singular requirements, clusters of interdependent requirements and highly dependent requirements.  Another concept is used to support the release planning. The concepts requirements coupling and release coupling are used. Requirements coupling are used to describe the complexity of the planning. Release coupling is used to specify the number of interdependencies between the partitions. At the end of the paper the author has concluded that it is important to find the methods or techniques that identify the singular requirements, highly dependent requirements  or free clusters. 
+
+
+
 
 
 
