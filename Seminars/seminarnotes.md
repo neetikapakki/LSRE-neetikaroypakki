@@ -402,20 +402,34 @@ HOMEWORK ARTICLE
 “A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”
 
 Quality requirements are seen as a key competitive advantage. This paper discuss about the QUPER model that was developed with the aim to support high-level decision-making in release planning of quality requirements. According to many surveys, QUPER is the only method which addresses quality and cost constraints of QR. This paper discusses about the guidelines of how to apply QUPER model in practice with an illustration of QR, added step which includes how to incorporate cost dependencies between quality requirements and two evaluations of complete version of QUPER model which helps to evaluate QUPER’s applicability.
+ 
  There are two main factors motivated the creation and evolvement of QUPER model;
+
 a.	A direct need identified in industry
+
 b.	A suitable model was not found in the literature, i.e. a model for supporting release planning of QR
+
 The reason for adding the cost dependency step is because dependencies may have a major impact on the estimated cost for other QR. The cost to improve the quality level for one QR may imply an improved level of quality for other QR. This may lead to a change of other QR cost barriers and which QR to select for the coming release. Therefore, it is important incorporate a cost dependency step in the QUPER model. 
+
 Application of QUPER model is presented in 7 steps by considering an example of quality requirements of a mobile TV
-      1. Identify candidate QR.
+
+1. Identify candidate QR.
+
 2. Define scale and unit.
+
 3. Identify reference levels.
+
 4. Elicit quality breakpoints.
+
 5. Estimate cost barriers.
+
 6. Set candidate requirements.
+
 7. Identify cost dependencies.
+
 With the help of these steps, explanation of a practical view of QUPER model is given with the help of figures. 
 In the later sections of this paper, the evaluation methodology of QUPER as it was evaluated in industry with a case company by finding out the answer for the research question that states “What are practitioners’ views on the utilities of QUPER extended with guidelines including domain-specific examples?” after the collection of the results we can gain the practical knowledge of applying this model and also helps to understand the problems that may arise while applying this model practically.
+
 While comparing both the articles i.e. “Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model” and “A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”, it was found out that the authors of both the papers has considered the quality requirements and have show practical results of the implementation of the QUPER model but in one paper the author has also included the cost dependencies among the quality requirements.
 
 
