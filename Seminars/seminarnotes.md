@@ -612,6 +612,38 @@ It is important that the functional interdependencies should have higher priorit
 
 Later in this paper, visualization technique is used which is applied to the requirements and their interdependencies in order to support release planning. This technique is used for identification of the singular requirements, clusters of interdependent requirements and highly dependent requirements.  Another concept is used to support the release planning. The concepts requirements coupling and release coupling are used. Requirements coupling are used to describe the complexity of the planning. Release coupling is used to specify the number of interdependencies between the partitions. At the end of the paper the author has concluded that it is important to find the methods or techniques that identify the singular requirements, highly dependent requirements  or free clusters. 
 
+SEMINAR 2
+HOMEWORK ARTICLE
+
+“Exploring factors affecting decision outcome and lead time in large scale requirements engineering”
+
+In this article, the importance of decision making on the requirements is focused. In MDRE projects, requirements keep on coming, deciding which requirements to be implemented is far from trivial. Customer needs keep evolving and cause changes to requirements so to maintain the competitive standards of the market, it is important to analyze and decide upon these changes. Some of the characteristics of the change requirements are number of products, released number and the type of customer. Lead time, defined as the duration between the moment a request was filed and the moment the decision was made, is an important aspect of decision making in market-driven requirements engineering. Minimizing lead time allows software companies to focus their resources on the most profitable functionality and enables them to remain competitive within the quickly changing software market. The author has considered some factors such as
+
+1.	To explore possible factors that may influence the decision lead time.
+
+2.	To investigate the possible factors that may influence the decision outcome.
+
+3.	To investigate if the decision leads time affects the decision outcome.
+
+Based on these factors a case study at a large company and a survey of industrial practice is conducted. The results show that 
+
+a.	The number of products affected by a decision increases the time needed to make a decision. So it is important to consider this aspect while planning for the efficient decision making and possibly reducing the complexity of decisions.
+
+b.	The statistical analysis of the decision log suggests no significant relationship between the release of the product line that a change impacts and the decision lead time.
+
+c.	The lead time for decisions is shorter when the change requests are issued by important customers. 
+
+d.	The lead time makes a decision increases when more products are influenced by this decision. 
+
+e.	Change requests issued by important customers are more likely to be accepted.
+
+f.	The chance of accepting a change request is higher if it affects a greater number of products.
+
+g.	Change requests affecting late releases have a significantly higher probability of acceptance.
+
+h.	The lead time to reject a decision is significantly longer than that to accept a decision.
+
+There is contradiction between the results obtained from survey and case study, for the release of product line has any impact on the lead time, the customer type has any impact on the lead time, number of products affected has any impact on the decision outcome, release number has any impact on the decision outcome.
 
 
 
