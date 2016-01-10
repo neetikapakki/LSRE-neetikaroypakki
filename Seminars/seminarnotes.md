@@ -413,19 +413,25 @@ The reason for adding the cost dependency step is because dependencies may have 
 
 Application of QUPER model is presented in 7 steps by considering an example of quality requirements of a mobile TV
 
-1. Identify candidate QR.
+1.	Identify candidate QR: It is important to identify relevant features, market segment, competitor, and hardware platform capability. After the identification of the factors, the consequences for the particular QR should be considered.
 
-2. Define scale and unit.
+2.	Define scale and unit: For the selected QR, a scale and a measurement unit that can be used to express the level of quality of QR should be defined.
 
-3. Identify reference levels.
+3.	Identify reference levels: For each QR, it is important to identify reference levels based on actual products. Reference levels can be based on competing as well as own products.
 
-4. Elicit quality breakpoints.
+4.	Elicit quality breakpoints: When all reference levels have been identified, for each QR, the market expectations should be defined in terms of the values of quality breakpoints.
 
-5. Estimate cost barriers.
+5.	Estimate cost barriers: When market expectations have been identified, for each QR, estimate the cost in terms of the values of cost barriers.
 
-6. Set candidate requirements.
+6.	Set candidate requirements: in this step the estimations are made, propose candidate requirements, discuss and decide actual requirements for coming releases, where estimates can be given in three forms.
 
-7. Identify cost dependencies.
+a.	With both a Good target and a Stretch target. 
+
+b.	 With only a Stretch target, which means the highest value is specified. 
+
+c.	 With only a Good target, which means the lowest accepted value is specified.
+
+7.	Identify cost dependencies: If cost dependencies among QR are considered important to identify for cost estimations, then, for each top-n QR, identify which modules that needs to be changed if that QR is to be improved beyond the ”next” breakpoint.
 
 With the help of these steps, explanation of a practical view of QUPER model is given with the help of figures. 
 In the later sections of this paper, the evaluation methodology of QUPER as it was evaluated in industry with a case company by finding out the answer for the research question that states “What are practitioners’ views on the utilities of QUPER extended with guidelines including domain-specific examples?” after the collection of the results we can gain the practical knowledge of applying this model and also helps to understand the problems that may arise while applying this model practically.
