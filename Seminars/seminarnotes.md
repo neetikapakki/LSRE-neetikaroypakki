@@ -646,6 +646,28 @@ h.	The lead time to reject a decision is significantly longer than that to accep
 There is contradiction between the results obtained from survey and case study, for the release of product line has any impact on the lead time, the customer type has any impact on the lead time, number of products affected has any impact on the decision outcome, release number has any impact on the decision outcome.
 
 
+SEMINAR 2 HOMEWORK ARTICLE
+
+“Are You Biting Off More Than You Can Chew? A Case Study on Causes and Effects of Over scoping in Large-Scale Software Engineering”
+Scope management is a key factor in releasing successful software products to the market. Scoping is the process of selecting which requirements to include into the next release of a software product. It is a complex and continuous task of assessing and re-assessing how these scoping changes impact the common code base of the software product line on which those products are built. This article mainly focuses on understanding over scoping in large scale, market-driven software development projects, and how agile requirements engineering practices may affect this situation. An interview is performed with nine practitioners at a large, market-driven software company. Research questions were framed based on the increase the understanding of factors involved in over scoping and thereby highlight this risk and take a step towards addressing and avoiding over scoping of projects. After which a case study is performed in three different phases.
+
+1.	Pre-study and hypothesis formulation
+
+2.	Interview study
+
+3.	Validation questionnaire
+
+The results have found that:
+
+1.	That over scoping is mainly caused by the fast-moving market-driven domain in which the case company operates, and how this inflow of requirements is managed.
+
+2.	Over scoping can lead to a number of negative effects, including quality issues, delays and failure to meet customer expectations. Delays and quality problems are expensive, not just considering the cost of fixing the quality issues, but also in loss of market shares and brand value.
+
+3.	A situation of over scoping may cause even more over scoping, i.e. an organization may end up in a vicious cycle when over scoping ties up development resources which are then not available for participating in early project phases.
+
+4.	Over scoping leads to increased communication gaps, which in turn are root causes of over scoping.
+
+
 
 
 
