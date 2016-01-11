@@ -789,6 +789,131 @@ d)	On Demand Software Delivery
 
 Related to increase integration frequency, roles of software requirements breakdown plays an important role when adopting continuous integration. 
 
+SEMINAR 2
+HOMEWORK ARTICLE:
+
+"Market-Driven Requirements Engineering for Software Products"
+
+This paper mainly discusses the overview of the special characteristics of market-driven requirements engineering and describes the most important challenges of the area.  A market driven refers to the situation where the development costs of a generic product are divided among many buyers on an open market and where the potential profit is rewarded to the producer Market-Driven Requirements Engineering (MDRE) covers the classical RE activities, such as elicitation, specification, and validation, adapted to the market-driven situation, where a software producer develops a product that is offered to an open market with many customers. MDRE also covers the specific activities needed in a market-driven context, such as release management and market analysis. In this paper the specific challenges of requirements engineering in a market driven software development context id discussed.
+The primary objective of market-driven development is to deliver the right product at the right time. The MDRE case is more focused on prioritization, cost estimation and release planning, and these activities are all conducted by the developing organization. Some of the important characteristics are listed below.
+
+a.	The developing organization makes all decisions but also takes all risks.
+
+b.	 There is a continuous flow of requirements throughout the product lifetime. 
+
+c.	 The requirements volume is potentially very large and continuously growing. 
+
+d.	 A majority of the requirements are informally described. 
+
+e.	 The product is evolving continuously and delivered in multiple releases.
+
+f.	 Release planning focuses on time-to-market and return-on-investment.
+
+There are some RE challenges in market-driven software development
+
+1.	Balancing market pull and technology push.
+
+2.	Chasm between marketing and development.
+
+3.	Organizational instability and market turbulence.
+
+4.	Simple tools for basic needs.
+
+5.	Requirements dependencies
+
+6.	Cost-value-estimation and release planning.
+
+7.	Overloaded Requirements Management.
+
+The key factor for a market driven company is to continuously improve in managing these challenges in such a way that it stays ahead of competitors. When designing an MDRE process for a specific company, it is important to realize that there are many factors that determine what the best concrete process implementation is. The factors are as follow.
+
+a.	type of development process, 
+
+b.	type of distribution channels,
+
+c.	 price and licensing policy
+
+d.	type of market
+
+e.	 what is the distinguishing customer value
+
+f.	 product complexity
+
+g.	nature of competition
+
+h.	 customer behaviour
+
+i.	requirements on product flexibility and adaptability
+
+j.	user interface complexity
+
+k.	 predictions on sales
+
+l.	 sales channels
+
+Process quality issue in MDRE is the quality of decisions that are made about produced artefacts. Decision quality is referred to the ratio of correct requirement selection decisions that are made during the recurring release planning activity. The selection is carried out by the Alfa/beta model of MDRE selection quality.  An Alfa requirement is defined as a requirement with high quality that it is ideally selected. Beta requirements are defined as the requirements that should be rejected because of its low quality.
+
+In MDRE data management, mainly contains two ingredients
+
+1.	Requirements state model: the requirements state model used for progress tracking of requirements refinement. Requirements are received at any time, but the development of a product is made in releases that are produced at discrete points in time. For this purpose, two modes are identified.
+
+a)	Continuous mode: in this mode, requirements are received and registered by the product manager.
+
+b)	Release mode: The development of product releases is initiated at designated times according to the roadmap planning and the requirements management activities are in release mode.
+
+To monitor the progress of the work on the requirements the following statuses of the requirements are discussed.
+
+a.	Candidate: Each requirement received gets the status of “Candidate”.
+
+b.	Approved: Accepted requirements get the status “Approved”.
+
+c.	Specified: When the specification document is available the requirement gets the status “Specified”.
+
+d.	Discarded: Rejected requirements get the status Discarded. A notification with the motivation of the rejection is send to the submitter.
+
+e.	Planned: All requirements selected get the status “Planned”.
+
+f.	Developed: When all these activities have been successfully completed, the requirement gets the status “Developed”.
+
+g.	Verified: Several testing activities are done for the developed system. If the results obtained are positive then it gets a status of positive.
+
+h.	Released: When all activities for the product release have been completed the requirement finally gets the status of 
+“Released”.
+
+2.	Requirements repository: requirements repository where relevant attributes of candidate requirements are stored.
+
+Customers want to be sure that the future of the software product on which they depend is in line with their future plans for this a road mapping technique is designed. A roadmap is a document that provides a layout of the product releases to come over a time frame of three to five years. Taxonomy is established that classifies roadmaps according to their location in an applications-objectives space. This taxonomy scheme classifies the roadmaps broadly into the following four categories:
+
+a.	Science and Technology Roadmaps 
+
+b.	 Industry Technology Roadmaps 
+
+c.	Corporate or Product-Technology Roadmaps 
+
+d.	 Product or Portfolio Management Roadmaps
+
+The roadmap helps identify precise objectives and helps focus the required resources on meeting those objectives. Road mapping has several potential uses and resulting benefits at both the individual corporate and industry levels. The three major uses of road mapping are:
+
+a.	Development of a consensus about a set of needs and the technologies required to satisfy the needs.
+
+b.	Provision of a mechanism to help experts forecast technology developments in target areas.
+
+c.	A framework to plan and coordinate developments either within an organization or in an entire industry.
+
+The structure of the road mapping process consists of four phases to  stratify from strategy making to the development of the software product.
+
+1.	Phase 1: Initiation Phase:
+
+2.	Phase 2: Preparation Phase
+
+3.	Phase 3: Finalization Phase
+
+4.	Phase 4: Follow-up Phase
+
+Later in this paper an example Road mapping at Baan is considered. In the conclusion the author as stated that in MDRE context, there are so many challenges observed in the areas like prioritization, management of dependencies and tool support for handling large scale requirements.
+
+
+
 
 
 
