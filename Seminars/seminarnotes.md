@@ -667,6 +667,127 @@ The results have found that:
 
 4.	Over scoping leads to increased communication gaps, which in turn are root causes of over scoping.
 
+SEMINAR 2
+HOMEWORK ARTICLE
+
+"Assessing challenges of continuous integration in the context of software requirements breakdown: a case study"
+
+As there is an increase in the complexity in the software development and the demand for the high quality products in a shorter delivery time by the customer, all the software companies are trying hard to improve their process to reach the goals and satisfy the customers. Companies that follow the agile process succeeds to some extent in reaching the goal and satisfying the customers because the agile process mainly focuses on customer collaboration and shorter feedback loops. For the further improving of the process, companies have adopted continuous integration which is the concept where teams integrate their code several times a day.  Continuous integration is not a trivial task since it requires frequent integration of smaller units of requirements that can be tested separately. In this paper a case study is carried out at Ericsson AB within the serving GPRS support node mobility management entity program to identifying the challenges of continuous integration, requirements breakdown and how the latter implementation of the continuous integration process. This case study involves several branches such as Work branch, Latest local version, Pre-Test build, Latest stable version while integrating and developing at different quality levels. Later in the case study all the cross functional teams identify several challenges that are related to continuous integration while different branches involved in the case study integrate the codes according to their needs. 
+
+The challenges that were identified for continuous integration are listed below:
+1.	Mindset: mindset plays an important role when transitioning to continuous integration. The challenges that are identified related to mindset are 
+
+•	Scepticism 
+
+•	Change old habits
+
+•	Exposing work intention
+
+2.	Tools and infrastructure:  Some of the problems that arise at the   time of using this tools and infrastructure are  
+
+a)	Code review
+
+b)	Maturity
+
+c)	Regression feedback time
+
+d)	Test automation
+
+e)	Integration queue
+
+3.	Testing: Challenges associated with this is due to lack of automated tests along with a stable test framework. Some of the challenges related to testing are 
+
+a)	Unstable test cases
+
+b)	Too many manual tests
+
+c)	Implementation and test dependencies
+
+d)	Preserving quality
+
+4.	Domain applicable: It is defined as the suitability of continuous integration at the organization. The challenges that are identified because of domain applicability are
+
+a)	Process suitability
+
+b)	Product complexity
+
+5.	Understanding: Teams and management might interpret the concept of continuous integration differently. As a result, some challenges are being identified as follows:
+
+a)	Unclear goals
+
+b)	Increased pressure
+
+c)	Different interpretations
+
+d)	Bottom-up approach
+
+6.	Code dependency: Development was carried out by several developers instead of one, because of diving work into several integrations. This shows the importance of considering code dependencies and how it effects the integration process and challenges are as follows:
+
+a.	Integration coordination
+
+b.	Dead code
+
+7.	Software requirements: When adopting continuous requirements they are treated as a challenge. The requirements need to be broken in order to allow more frequent integrations. How the software requirements affect the integration process is demonstrated by the challenges as mentioned:
+
+a.	Requirements breakdown
+
+b.	Deliver feature growth
+
+c.	Integration of big impact changes
+
+During requirement breakdown, there are some challenges that were identified:
+
+1.	Requirements abstraction: It is very difficult when the requirements are too big, ambiguous or too low. The challenges that are identified related to the requirements abstraction are:
+
+a.	Ambiguous requirements
+
+b.	Large requirements
+
+c.	Low-level requirements
+
+d.	Architectural design
+
+e.	Product complexity
+
+2.	Alignment of requirements and tests: when integrating requirements into the main line, they need to be associated with tests and aligned properly. The challenges identified related to alignment of requirements and test are:
+
+a.	Implementation and test case dependencies
+
+3.	Customer value: It is a very process for breaking down requirements into small components by considered the market and customer value. The challenges identified in this area are:
+
+a.	Access to customer
+
+b.	Delivering the customer value
+
+4.	Guiding principle: Lack of guidance and not having a clear idea on the unified process are identified as the possible reasons for this ambiguity. The challenges associated with this are due to
+
+a.	No unified process
+
+b.	Ongoing responsibility shift
+
+c.	Unfit process
+
+d.	Lack of guidance
+
+The challenges that are identified because of requirements breakdown during continuous integration
+
+1.	Necessity of software requirements breakdown: There is a need for the breakdown of software requirements in order to adopt an efficient continuous integration process with a beneficial integration frequency,. The challenges that are identified because of this are 
+
+a)	Big impact requirements
+
+b)	Maintenance versus feature development
+
+2.	Implications of software requirements breakdown: The challenges identified relate to this area as follows:
+
+a)	Implementation dependencies
+
+b)	Integration scope
+
+c)	Test dependencies
+
+d)	On Demand Software Delivery
+
+Related to increase integration frequency, roles of software requirements breakdown plays an important role when adopting continuous integration. 
 
 
 
