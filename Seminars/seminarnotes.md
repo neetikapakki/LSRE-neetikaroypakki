@@ -341,7 +341,7 @@ SEMINAR 1:
 
 HOMEWORK ARTICLE:
 
-Aim:
+“Quality Requirements in Industrial Practice – an extended interview study at eleven companies”
 
 This paper focuses on the importance and analysis of QR in different companies.
 Data collection area:
@@ -397,7 +397,51 @@ At many cases there is a disagreement between the PM and the PL of the same comp
 
 It is important to acknowledge the participator about the importance of QR needs not only in theory but also in practice. It is important for them to understand and accept the fact that the dismissal of the QR may solve a short term problem but on a long term basis it will reduce the competitive advantages and the value of the system. To lower the dismiss rate of QR by improving the specification and quantification of the more difficult ones, it may be easier to keep them in the project instead of dismissing them when running out of time. However, the main problem is that QR are not taken into consideration during product planning and thus not included as hard requirements in the projects, making the realization of QR a reactive rather than a proactive effort. Product management may thus not be able to plan and rely on QR to achieve competitive advantages.
 
+SEMINAR 1
 
+HOMEWORK ARTICLE
+
+“A method for early requirements triage and selection utilizing product strategies”
+
+This paper measures an efficient and effective method that deals with the overload of the large number of requirements on a development organisation in case of market driven product development. Method for early requirements triage utility product strategies (MERTS) is built based on the needs in industries. This paper includes the evaluation of effectiveness and efficiency through controlled experiment in lab environment with 50 software engineering graduates as subjects. Evaluation is done by comparing MERTS with NL, natural language format. The authors of this paper argue that the requirements in market driven requirements engineering in contrast to traditional requirements engineering, come from internal sources (like developers, marketing, sales teams and bug reports) and also from external sources (different users, customers from different and multiple market segments and competitors) which results in large and continuous flow of requirements. It result to over load development organizations. For a company to reach the optimal strategy, all factors like selection, scalable, accuracy and cost effective way of selecting the requirements must be considered. In order to achieve this all the technical experts both middle and strategic management have to share a common vision. This need can be achieved by a method for Early Requirement Triage and selection (MERTS) which combine both strategic and technical perspectives for the formulation of product strategies. MERTS has two main purposes: 
+
+1. It acts as a stepwise guide to create product strategies taking both technical and strategic views into account.
+
+2. The strategies resulting from MERTS can be used by project managers to efficiently perform requirement triage and requirement selection in a reasonable amount of time.
+
+MERTS background:
+
+MERTS is centred on ensuring that the five strategic questions for a product are answered explicitly. The project managers using this method should follow three parts. Each part has several steps.
+
+Part 1- Early requirement Triage: It provides steps to create an initial product strategy for use in requirement triage.
+
+A. Specify: Includes specification of the directions of movement for the product deduced from the organisations’ mission statement. 
+
+It includes answers for three strategic questions:
+
+1. Where we want to go? 
+
+2. How to get there?
+
+3. What will be done?
+for each product. The output of this step is a detailed understanding of goals and objectives associated with a specific product.
+
+B. Assign weights: The answers from step 1 are assigned weights. The weights are assigned to each of the factors based on their relative importance. 
+
+C. Compare requirements: Total weights of all requirements are compared against a threshold to select or reject each of the requirements.
+
+Part 2- Requirements selection for release: After the identification of set of requirements, the next step is when to get there. This can be achieved through 
+
+(i) Specification of product technology road map
+
+(ii) Estimating resources        
+
+ Part 3- Strategic Rationale: Once the strategic questions have been answered, reasoning behind the decisions should be documented.
+
+In order to implement MERTS, requirements need to be comparable to the formulated strategies.
+
+Experiment: the experiment was conducted in an academic setting, 50 engineering graduates of BTH taken as subjects. The aim of the experiment is to compare efficiency and effectiveness of MERTS with NL format. Subjects are divided into groups as one having product strategy in NL format and another in MERTS format. Each subject was given either NL or MERTS format. Each subject was given either NL or MERTS formatted strategy and detailed goals for new version of a mobile gadget targeted for entertainment oriented users in Asian market. Each requirement in the set has at least two levels product and feature, and also divided into functions and each requirement was formulated using attributes like unique id, product level requirement, feature level requirement, function level requirement, component level requirement. Hence this represents the requirements abstraction model. Applicable validity threats such internal, external and construct are also addressed in this experiment. The results of the experiment stated that MERTS is highly remarkable than NL when compared in terms of strategy formulation and utilization for the purpose of requirement triage. But MERTS have a drawback and it seems to be more resource intensive to use. This model takes more time but avoids errors and is a systematic method for thinking and to make decisions which miss with strategies. 
+  
 SEMINAR 3
 HOMEWORK ARTICLE
 
