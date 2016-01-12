@@ -1,4 +1,45 @@
-HOMEWORK 
+SEMINAR 0
+
+HOMEWORK QUESTIONS
+LARGE SCALE REQUIREMENT ENGINEERING
+
+Any large organisation needs an efficient RE process where the number of new requirements increases whiles the management resources cannot be increased accordingly.  The RE process is often described as cyclic with each cycle consisting of elicitation, analysis and validation activities [1] [2]. Large scale requirement engineering (LSRE) is defined based on the size of the requirements set that is considered in the market driven requirements. Generally in large scale requirement engineering the order of magnitude exceeds 1000 requirements. Managing a complete set of interdependencies in LSRE is practically unfeasible, but feasible among small bundles of requirements [3].
+References:
+
+[1]	S. Aaramaa, T. Kinnunen, J. Lehto, and N. Taušan, “Managing Constant Flow of Requirements : Screening Challenges in Very Large-Scale,” pp. 123–137.
+
+[2]	L. N. Æ. P. A. Swatman, “Managing the requirements engineering process,” pp. 55–68, 2003.
+
+[3]	B. Regnell, R. B. Svensson, and K. Wnuk, “Can We Beat the Complexity of Very Large-Scale Requirements Engineering ? 2 Orders of Magnitude in Requirements Engineering.” SEMINAR 0 
+HOMEWORK:
+The order of magnitude in RE is based on the size of the sets of requirement that are handled by the organization in developing a software intensive system [1]. The order of magnitude also relieves the effort that is required in managing the complete sets of interdependencies of the requirements.  
+
+The order to magnitude in RE are categorised in 4 levels.
+
+Level 1 - Small scale requirement engineering (SSRE)
+
+The order of magnitude (or) the number of requirements the organisation can handle is: 10
+
+Effort required: less effort 
+
+Level 2 – Medium scale requirement engineering (MSRE)	
+
+ The order of magnitude (or) the number of requirements the organisation can handle is: 100
+
+Effort required: managing the set of requirements at this level is feasible but requires large effort.  
+
+Level 3 – Large scale requirement engineering (LSRE)
+
+The order of magnitude (or) the number of requirements the organisation can handle is: 1000
+
+Effort required: practically unfeasible but feasible among small bundles of requirements.  
+
+Level 4 – Very large scale requirement engineering (MSRE)
+
+The order of magnitude (or) the number of requirements the organisation can handle is: 10000
+
+Effort required: Managing a complete set of interdependencies among small bundles of requirements is unfeasible in practice.
+
 
 SEMINAR 0
 
@@ -33,6 +74,82 @@ Conclusion phase: final report is written which summarise the lesson learned in 
 Verification: The implemented requirements that are in the selected list are verified against RD using requirements-  based testing method
 After this a partial process scenario model is designed that shows the event related to one requirement. And at the end of this paper, challenges such as over load control, connection fragment, cost value use case prioritisation etc were identified that are occurred while implementing REPEAT.
 
+SEMINAR 0
+HOMEWORK ARTICLE 
+
+“Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model”
+
+This paper highlights the importance of finding the right balance among competing quality requirements for market success.  For this purpose a model is developed that uses quality dimensions with addition to the cost and value dimensions while prioritizing the functional requirements. This paper presents a quality performance (QUPER) model which supports release planning and road mapping of quality requirements and it also presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The main purpose of this is to investigate the implementation of QUPER in industry. This model involves three steps.
+
+Step1.  Problem definition
+
+Step2.  Model definition
+
+Step3. Model validation
+
+In the first step, the understanding of different requirement decision scenarios is done along with the identification of the need for a cost-benefit model including quality aspects to support road mapping and scoping.
+
+The second step is based on the inputs of the first step. This step includes three kinds of view (QUPER benefit view, QUPER cost view, QUPER roadmap view)
+In the QUPER benefit view, three breakpoints that indicate the principal changes in the benefit level with respect to experience and market value. A breakpoint is an important aspect of non-linear relation between quality and benefit. The three breakpoints are listed below:
+a.	The utility breakpoint: represents the border between a quality level useless and useful quality.
+b.	The differentiation breakpoint: represents the shift from useful to competitive quality, which makes them have a competitive market proposition.
+c.	The saturation breakpoint: breakpoint imply a change in quality level from competitive to excessive quality, where higher quality levels have no practical impact on the benefit in the particular usage context considered.
+In QUPER cost view, the notation of cost barriers that represents the non-linear relation between quality and costs is included.
+In QUPER roadmap view, combines benefit and cost views by position the breakpoints and barrier together ordered on the same scale.
+
+In the third step the evaluation of the model which is generally carried out through interviews and expert decisions is included.
+All the above three steps are carried out in Ericsson by considering only benefit view since it is the most important part of the QUPER model. This implementation process is done in four steps:
+1.	Define quality aspects.
+2.	Estimate your product’s current quality and the competing products’ quality.
+3.	For each quality aspect and for each relevant qualifier, estimate the breakpoints.
+4.	Estimate candidate targets and discuss and decide on actual targets for coming releases.
+
+Later in this paper a detailed description of practical application of QUPER model by conducting interviews and involving experts of the company. The results indicate that the quality performance model provides helpful information about quality requirements in release planning. And also the main identified challenge was difficulties to identify and specify the values for the differentiation and saturation breakpoints. Furthermore, different understanding of the breakpoints value among the staff was raised as a challenge.
+
+SEMINAR 0 
+
+HOMEWORK ARTICLE
+
+“A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”
+
+Quality requirements are seen as a key competitive advantage. This paper discuss about the QUPER model that was developed with the aim to support high-level decision-making in release planning of quality requirements. According to many surveys, QUPER is the only method which addresses quality and cost constraints of QR. This paper discusses about the guidelines of how to apply QUPER model in practice with an illustration of QR, added step which includes how to incorporate cost dependencies between quality requirements and two evaluations of complete version of QUPER model which helps to evaluate QUPER’s applicability.
+ 
+ There are two main factors motivated the creation and evolvement of QUPER model;
+
+a.	A direct need identified in industry
+
+b.	A suitable model was not found in the literature, i.e. a model for supporting release planning of QR
+
+The reason for adding the cost dependency step is because dependencies may have a major impact on the estimated cost for other QR. The cost to improve the quality level for one QR may imply an improved level of quality for other QR. This may lead to a change of other QR cost barriers and which QR to select for the coming release. Therefore, it is important incorporate a cost dependency step in the QUPER model. 
+
+Application of QUPER model is presented in 7 steps by considering an example of quality requirements of a mobile TV
+
+1.	Identify candidate QR: It is important to identify relevant features, market segment, competitor, and hardware platform capability. After the identification of the factors, the consequences for the particular QR should be considered.
+
+2.	Define scale and unit: For the selected QR, a scale and a measurement unit that can be used to express the level of quality of QR should be defined.
+
+3.	Identify reference levels: For each QR, it is important to identify reference levels based on actual products. Reference levels can be based on competing as well as own products.
+
+4.	Elicit quality breakpoints: When all reference levels have been identified, for each QR, the market expectations should be defined in terms of the values of quality breakpoints.
+
+5.	Estimate cost barriers: When market expectations have been identified, for each QR, estimate the cost in terms of the values of cost barriers.
+
+6.	Set candidate requirements: in this step the estimations are made, propose candidate requirements, discuss and decide actual requirements for coming releases, where estimates can be given in three forms.
+
+a.	With both a Good target and a Stretch target. 
+
+b.	 With only a Stretch target, which means the highest value is specified. 
+
+c.	 With only a Good target, which means the lowest accepted value is specified.
+
+7.Identify cost dependencies: If cost dependencies among QR are considered important to identify for cost estimations, then, for each top-n QR, identify which modules that needs to be changed if that QR is to be improved beyond the ”next” breakpoint.
+
+With the help of these steps, explanation of a practical view of QUPER model is given with the help of figures. 
+In the later sections of this paper, the evaluation methodology of QUPER as it was evaluated in industry with a case company by finding out the answer for the research question that states “What are practitioners’ views on the utilities of QUPER extended with guidelines including domain-specific examples?” after the collection of the results we can gain the practical knowledge of applying this model and also helps to understand the problems that may arise while applying this model practically.
+
+While comparing both the articles i.e. “Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model” and “A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”, it was found out that the authors of both the papers has considered the quality requirements and have show practical results of the implementation of the QUPER model but in one paper the author has also included the cost dependencies among the quality requirements.
+
+
 
 SEMINAR 2 HOMEWORK:
 BOSTON MATRIX:
@@ -49,7 +166,7 @@ This tool classifies the products in four categories based in the market share a
 4.	Star: these products produce and consume large amount of cash because their market growth is high and at the same time its market share is equally high. When the market growth falls for these products, they will become cash cow.
 
 
-SEMINAR 0 HOMEWORK:
+SEMINAR 1 HOMEWORK:
 
 Gap analysis:
 
@@ -114,35 +231,6 @@ Tools for agile requirements management:
 5. IceScrum
 6. Agilefant
 
-SEMINAR 0 
-HOMEWORK:
-The order of magnitude in RE is based on the size of the sets of requirement that are handled by the organization in developing a software intensive system [1]. The order of magnitude also relieves the effort that is required in managing the complete sets of interdependencies of the requirements.  
-
-The order to magnitude in RE are categorised in 4 levels.
-
-Level 1 - Small scale requirement engineering (SSRE)
-
-The order of magnitude (or) the number of requirements the organisation can handle is: 10
-
-Effort required: less effort 
-
-Level 2 – Medium scale requirement engineering (MSRE)	
-
- The order of magnitude (or) the number of requirements the organisation can handle is: 100
-
-Effort required: managing the set of requirements at this level is feasible but requires large effort.  
-
-Level 3 – Large scale requirement engineering (LSRE)
-
-The order of magnitude (or) the number of requirements the organisation can handle is: 1000
-
-Effort required: practically unfeasible but feasible among small bundles of requirements.  
-
-Level 4 – Very large scale requirement engineering (MSRE)
-
-The order of magnitude (or) the number of requirements the organisation can handle is: 10000
-
-Effort required: Managing a complete set of interdependencies among small bundles of requirements is unfeasible in practice.
 
 SEMINAR 1:
 HOMEWORK QUESTION
@@ -273,18 +361,7 @@ Tools used for continues integration are as follow:
 
 
 
-SEMINAR 0
 
-HOMEWORK QUESTIONS
-
-Any large organisation needs an efficient RE process where the number of new requirements increases whiles the management resources cannot be increased accordingly.  The RE process is often described as cyclic with each cycle consisting of elicitation, analysis and validation activities [1] [2]. Large scale requirement engineering (LSRE) is defined based on the size of the requirements set that is considered in the market driven requirements. Generally in large scale requirement engineering the order of magnitude exceeds 1000 requirements. Managing a complete set of interdependencies in LSRE is practically unfeasible, but feasible among small bundles of requirements [3].
-References:
-
-[1]	S. Aaramaa, T. Kinnunen, J. Lehto, and N. Taušan, “Managing Constant Flow of Requirements : Screening Challenges in Very Large-Scale,” pp. 123–137.
-
-[2]	L. N. Æ. P. A. Swatman, “Managing the requirements engineering process,” pp. 55–68, 2003.
-
-[3]	B. Regnell, R. B. Svensson, and K. Wnuk, “Can We Beat the Complexity of Very Large-Scale Requirements Engineering ? 2 Orders of Magnitude in Requirements Engineering.” 
 
 SEMINAR 1
 HOMEWORK ARTICLE
@@ -363,80 +440,6 @@ Dynamic validation:
  As the RAM model is completed, it is set to be tested in live development situation. The idea was to use the model for actual requirements engineering in order to validate its components and to check if the model was scalable to a real development situation. During the process of this type of validation, few questions are generated considering several aspects of RAM.
 At the end this paper concludes stating the importance and the usage of the requirement abstract model. This will give clarity about the requirements and helps in taking decision for any future work on a particular requirement.
 
-SEMINAR 0
-HOMEWORK ARTICLE 
-
-“Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model”
-
-This paper highlights the importance of finding the right balance among competing quality requirements for market success.  For this purpose a model is developed that uses quality dimensions with addition to the cost and value dimensions while prioritizing the functional requirements. This paper presents a quality performance (QUPER) model which supports release planning and road mapping of quality requirements and it also presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The main purpose of this is to investigate the implementation of QUPER in industry. This model involves three steps.
-
-Step1.  Problem definition
-
-Step2.  Model definition
-
-Step3. Model validation
-
-In the first step, the understanding of different requirement decision scenarios is done along with the identification of the need for a cost-benefit model including quality aspects to support road mapping and scoping.
-
-The second step is based on the inputs of the first step. This step includes three kinds of view (QUPER benefit view, QUPER cost view, QUPER roadmap view)
-In the QUPER benefit view, three breakpoints that indicate the principal changes in the benefit level with respect to experience and market value. A breakpoint is an important aspect of non-linear relation between quality and benefit. The three breakpoints are listed below:
-a.	The utility breakpoint: represents the border between a quality level useless and useful quality.
-b.	The differentiation breakpoint: represents the shift from useful to competitive quality, which makes them have a competitive market proposition.
-c.	The saturation breakpoint: breakpoint imply a change in quality level from competitive to excessive quality, where higher quality levels have no practical impact on the benefit in the particular usage context considered.
-In QUPER cost view, the notation of cost barriers that represents the non-linear relation between quality and costs is included.
-In QUPER roadmap view, combines benefit and cost views by position the breakpoints and barrier together ordered on the same scale.
-
-In the third step the evaluation of the model which is generally carried out through interviews and expert decisions is included.
-All the above three steps are carried out in Ericsson by considering only benefit view since it is the most important part of the QUPER model. This implementation process is done in four steps:
-1.	Define quality aspects.
-2.	Estimate your product’s current quality and the competing products’ quality.
-3.	For each quality aspect and for each relevant qualifier, estimate the breakpoints.
-4.	Estimate candidate targets and discuss and decide on actual targets for coming releases.
-
-Later in this paper a detailed description of practical application of QUPER model by conducting interviews and involving experts of the company. The results indicate that the quality performance model provides helpful information about quality requirements in release planning. And also the main identified challenge was difficulties to identify and specify the values for the differentiation and saturation breakpoints. Furthermore, different understanding of the breakpoints value among the staff was raised as a challenge.
-
-SEMINAR 0 
-
-HOMEWORK ARTICLE
-
-“A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”
-
-Quality requirements are seen as a key competitive advantage. This paper discuss about the QUPER model that was developed with the aim to support high-level decision-making in release planning of quality requirements. According to many surveys, QUPER is the only method which addresses quality and cost constraints of QR. This paper discusses about the guidelines of how to apply QUPER model in practice with an illustration of QR, added step which includes how to incorporate cost dependencies between quality requirements and two evaluations of complete version of QUPER model which helps to evaluate QUPER’s applicability.
- 
- There are two main factors motivated the creation and evolvement of QUPER model;
-
-a.	A direct need identified in industry
-
-b.	A suitable model was not found in the literature, i.e. a model for supporting release planning of QR
-
-The reason for adding the cost dependency step is because dependencies may have a major impact on the estimated cost for other QR. The cost to improve the quality level for one QR may imply an improved level of quality for other QR. This may lead to a change of other QR cost barriers and which QR to select for the coming release. Therefore, it is important incorporate a cost dependency step in the QUPER model. 
-
-Application of QUPER model is presented in 7 steps by considering an example of quality requirements of a mobile TV
-
-1.	Identify candidate QR: It is important to identify relevant features, market segment, competitor, and hardware platform capability. After the identification of the factors, the consequences for the particular QR should be considered.
-
-2.	Define scale and unit: For the selected QR, a scale and a measurement unit that can be used to express the level of quality of QR should be defined.
-
-3.	Identify reference levels: For each QR, it is important to identify reference levels based on actual products. Reference levels can be based on competing as well as own products.
-
-4.	Elicit quality breakpoints: When all reference levels have been identified, for each QR, the market expectations should be defined in terms of the values of quality breakpoints.
-
-5.	Estimate cost barriers: When market expectations have been identified, for each QR, estimate the cost in terms of the values of cost barriers.
-
-6.	Set candidate requirements: in this step the estimations are made, propose candidate requirements, discuss and decide actual requirements for coming releases, where estimates can be given in three forms.
-
-a.	With both a Good target and a Stretch target. 
-
-b.	 With only a Stretch target, which means the highest value is specified. 
-
-c.	 With only a Good target, which means the lowest accepted value is specified.
-
-7.Identify cost dependencies: If cost dependencies among QR are considered important to identify for cost estimations, then, for each top-n QR, identify which modules that needs to be changed if that QR is to be improved beyond the ”next” breakpoint.
-
-With the help of these steps, explanation of a practical view of QUPER model is given with the help of figures. 
-In the later sections of this paper, the evaluation methodology of QUPER as it was evaluated in industry with a case company by finding out the answer for the research question that states “What are practitioners’ views on the utilities of QUPER extended with guidelines including domain-specific examples?” after the collection of the results we can gain the practical knowledge of applying this model and also helps to understand the problems that may arise while applying this model practically.
-
-While comparing both the articles i.e. “Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model” and “A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”, it was found out that the authors of both the papers has considered the quality requirements and have show practical results of the implementation of the QUPER model but in one paper the author has also included the cost dependencies among the quality requirements.
 
 
 SEMINAR 2
