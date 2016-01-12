@@ -4,6 +4,17 @@ HOMEWORK QUESTIONS
 LARGE SCALE REQUIREMENT ENGINEERING
 
 Any large organisation needs an efficient RE process where the number of new requirements increases whiles the management resources cannot be increased accordingly.  The RE process is often described as cyclic with each cycle consisting of elicitation, analysis and validation activities [1] [2]. Large scale requirement engineering (LSRE) is defined based on the size of the requirements set that is considered in the market driven requirements. Generally in large scale requirement engineering the order of magnitude exceeds 1000 requirements. Managing a complete set of interdependencies in LSRE is practically unfeasible, but feasible among small bundles of requirements [3].
+
+
+There are many challenges that are identified in LSRE. Few of the challenges are listed below:
+1.	Complex dependencies between requirements
+2.	Cost estimation
+3.	Requirements prioritization
+4.	Finding right balance between selecting commercial requirements and internal quality requirements.
+5.	Uncertain environments
+6.	Resource allocation
+7.	Handling of multiple customer or the stackholders
+
 References:
 
 [1]	S. Aaramaa, T. Kinnunen, J. Lehto, and N. Taušan, “Managing Constant Flow of Requirements : Screening Challenges in Very Large-Scale,” pp. 123–137.
@@ -149,22 +160,31 @@ In the later sections of this paper, the evaluation methodology of QUPER as it w
 
 While comparing both the articles i.e. “Introducing Support for Release Planning of Quality Requirements – An Industrial Evaluation of the QUPER Model” and “A case study evaluation of the guideline-supported QUPER model for elicitation of quality requirements”, it was found out that the authors of both the papers has considered the quality requirements and have show practical results of the implementation of the QUPER model but in one paper the author has also included the cost dependencies among the quality requirements.
 
+SEMINAR 1:
+HOMEWORK QUESTION
 
+Road mapping:
+A roadmap is a strategic plan that provides the steps an organisation needs to take to achieve stated outcomes and goals. It provides vision to the links among tasks and priorities for action in the near, medium and long term. Metrics and milestone provided by the roadmap allow the organisation having a regular tracking of progress towards the goals.
+There are specific key elements of a successful roadmap:
+ 
+  A roadmap will contain a clear statement of desire outcome that follow a specific pathway for reaching the goal. The pathway contains the following:
+  
+1.	Goals: A clear and concise set of targets that, if achieved, will result in the desired outcome; quantified goals.
 
-SEMINAR 2 HOMEWORK:
-BOSTON MATRIX:
-Boston matrix that is developed by Boston Consulting Group (BCG) is a marketing tool that analysis and manages the product portfolio which helps the investor to decide on which product he/she has to invest. 
-Functionality of this tool:
-This tool classifies the products in four categories based in the market share and the market growth.
+2.	Milestones: the interim performance targets for achieving the goals, pegged to specific dates.
 
-1.	Dog: The products that are in dog category have low market share and low market growth. This means that these products do not consume nor will they generate much cost.
+3.	Gaps and barriers: a list of any potential gaps in knowledge, technology limitations, market structural barriers, regulatory limitations, public acceptance or other barriers to achieving the goals and milestones.
 
-2.	Cash Cow: the assets of the products are much higher than the market growth in this category. So they generate most income then that is consumed.
+4.	Action items: actions that can be taken to overcome any gaps or barriers that stand in the way of achieving the goals; typical solution actions include technology development and deployment, development of regulations and standards, policy formulation, creation of financing mechanisms, and public engagement.
 
-3.	Question mark: these are the product that consumes large amount of cash by providing a high growth in the market and as they have low market share they don’t generate much income. These products can be places in the star category if the market share rises and also can be placed in cash cow if the market growth is slow.
+5.	Priorities and timelines: a list of the most important actions that need to be taken in order to achieve the goals and the time frames, taking into account interconnections among those actions and stakeholder roles and relationships.
 
-4.	Star: these products produce and consume large amount of cash because their market growth is high and at the same time its market share is equally high. When the market growth falls for these products, they will become cash cow.
-
+IVA
+Internal Value analysis is a technique to measure whether a product is following the proposed strategy by meeting the product line at every stage by considering limited resource such as cost, time, risk and knowledge. 
+References 
+[1]   T. Gorschek and A. M. Davis, “Requirements engineering: In
+search of the dependent variables,” Inf. Softw. Technol., vol. 50, no.
+1–2, pp. 67–75, 2008. 
 
 SEMINAR 1 HOMEWORK:
 
@@ -201,6 +221,89 @@ Gap process includes the following steps:
 
 7.	  Develop and prioritise the requirements to bridge the gap.
 
+SEMINAR 1 
+HOMEWORK ARTICLE 4
+
+“A cost-value approach for prioritizing requirements”
+
+Authors argue that for a software project meeting needs and expectations of stakeholders is important to go ahead in a competitive world. In order to achieve this objective, an accurate management of stakeholder’s system requirements has to be done. It is a difficult task to decide the requirements and it is even important to consider time and budget constraints. Despite the fast growth of the research in requirements engineering, many managers of different companies still do not have idea about effective and industrial proven techniques for prioritizing. 
+Requirement prioritization help companies to make acceptable trade-offs among conflicting goals (quality, cost and time-to- market) and to allocate resources based on importance of requirements to their project. 
+Therefore the authors have developed an analytical tool for prioritization based on cost-value approach. This tool ranks the candidate requirements based on their value to the customers and on their estimated cost of implementation. This method is also implemented successfully in two telecommunication software development companies.
+Cost value approach:
+This approach help to make prioritization simple and straightforward giving out accurate and convincing results. Requirements prioritization is done according to their corresponding cost and value figures. Here cost is the cost for successfully applying candidate requirements where cost is calculated in terms of currency by many developers. The candidate requirements are investigated through Analytic Hierarchy Process (AHP) which compares the requirements pair wise according to their relative cost and value. Pair wise comparison is chosen because it includes redundancy and is sensitive to judgemental errors. 
+
+Prioritization of requirements using cost-value approach includes five steps.
+
+1. First the requirements engineers review all the requirements carefully to ensure that they are stated in an unambiguous way.
+
+2. Customers and users apply AHP’s pair wise comparison to assess the relative value of candidate requirements.
+
+3. Relative cost of each candidate requirement is estimated by experienced software engineers using AHP’s pair wise comparison.
+
+4. Then the software engineers use AHP to calculate relative value and implementation cost of each candidate requirement and plots these values on a cost-value diagram.
+
+5. Stakeholders use this diagram as a conceptual map for analysing and discussing the requirements and based on this discussion, software managers prioritize the requirements and decide which requirements should be actually implemented. 
+
+Case study 1 (RAN project):
+
+The authors’ goal for this project was to identify and specify requirements for a system that would give managers information about mobile telephony system operation. They identified 14 high-level requirements that would give managers information about quality, coverage and capacity of mobile communication system. These requirements were defined by authors and managers reviewed and agreed them. . A group of experienced project members are asked to represent customer’s views and carefully instructed them on prioritizing requirements, making pair wise comparisons carefully. The project manager explained each requirement and discussed it with all the participants of the project to be clear. Then pair wise comparisons were done based on the value and cost estimates. When all 14 requirements had been pair wise compared, value distribution and the cost distribution are calculated, as well as the consistency indices and ratios of the pair wise comparisons. Based on the distribution results, the candidate requirements are presented in a cost-value diagram and results were presented to the managers. Analysis is performed with the help of cost-value diagram which provided requirements selection.
+
+Case study 2 (PMR project): this case study was done by the same authors having base on cost-value approach in the RAN project. The Performance Management Traffic Recording project is selected and cost-value analysis is applied for prioritizing the requirements for fourth release. The requirements are divided into three categories basing on those: demanding traditional defect correction, requiring performance enhancement and suggesting added functionality. The authors decided to prioritize only those suggesting added functionality as both the customers and project managers agreed to it that all defects had to be corrected and performance had to be enhanced. 11 high level functional requirements are made and 55 pair wise comparisons respectively. This approach can produce software system with substantial customer satisfaction at a significant reduction in cost.
+In my opinion, this approach is suitable in prioritizing requirements for the projects which have less number of requirements. This approach does not consider interdependencies so it may be a disadvantage to apply it in large scale requirements engineering. It also have few advantages and can be implemented in large scale requirements engineering if it consider interdependencies.
+
+SEMINAR 1
+
+HOMEWORK  
+
+ARTICLE 3
+
+ “Requirements Engineering. In search of dependent variables”
+
+In this paper the authors presented a framework of dependent variables that helps in most of the requirements engineering quality assessment. In many companies assessment is based on two main factors: 
+
+•	The requirement process which have measurement of time and resources consumed.
+
+•	The primary product such as measurement of the quality of software requirements.
+
+But researchers’ pointed out that performance of either one or both of these tests is not necessary to be successful. Most of the efforts are performed with little concern improving the projects. In most of the cases engineers attempt to change their processes with a hope of achieving expected outcome. Dependent variable can vary from shortest term to longest term. Deciding the right dependent variable for a particular case is a major consequence. Hence to eradicate this gap, the authors presented a frame work of dependent variables which serve as a base for quality assessment of requirements engineering. As a change in requirements process occur we can observe their impact on dependent variables till five distinct levels.
+
+Requirements phase: this level include dependent variables that relate to requirements cost, time and quality. 
+
+Project: this level consists of information whether the project was completed on time, within budget, reached all the specified requirements and also include project cost, time, estimates and degree of requirements change.
+
+Product: dependent variables within this stage determine the degree of product success. This level includes dependent variables that relate requirements selection and degree of impact.
+
+Company: measures such as portfolio management, strategic alignment and degree of impact. 
+
+Society: A project that contributes to a company’s bottom line but pollutes the environment or kills people must be considered as a failure. Include positive and negative externalities.
+This paper includes summary of previous research on measures at all the five levels by which this article contribute as a reference for research performed in this area. Major contributions of this paper include:
+
+1. It creates a clear classification of levels so that the impact of changes in RE process can be assessed.
+
+2. It suggests that product strategies should reflect long term goals, but these goals also have to be aligned to both current market and technology trends.
+
+3. It increases awareness that the strategies used must be stated explicitly and all the requirement engineers should be aware of this.
+
+4. It exposes the fact that at higher levels in the taxonomy, we need to recognize that impacts are multidisciplinary and multi-perspective.
+
+All these contributions serve the companies to take care of the dependent variable at the time of requirement engineering process changes are made and serves as a reference as it presents a clear frame work of all the variables in different views.
+
+
+SEMINAR 2 HOMEWORK:
+BOSTON MATRIX:
+Boston matrix that is developed by Boston Consulting Group (BCG) is a marketing tool that analysis and manages the product portfolio which helps the investor to decide on which product he/she has to invest. 
+Functionality of this tool:
+This tool classifies the products in four categories based in the market share and the market growth.
+
+1.	Dog: The products that are in dog category have low market share and low market growth. This means that these products do not consume nor will they generate much cost.
+
+2.	Cash Cow: the assets of the products are much higher than the market growth in this category. So they generate most income then that is consumed.
+
+3.	Question mark: these are the product that consumes large amount of cash by providing a high growth in the market and as they have low market share they don’t generate much income. These products can be places in the star category if the market share rises and also can be placed in cash cow if the market growth is slow.
+
+4.	Star: these products produce and consume large amount of cash because their market growth is high and at the same time its market share is equally high. When the market growth falls for these products, they will become cash cow.
+
+
 
 SEMINAR:4 HOMEWORK
 
@@ -232,31 +335,7 @@ Tools for agile requirements management:
 6. Agilefant
 
 
-SEMINAR 1:
-HOMEWORK QUESTION
-
-Road mapping:
-A roadmap is a strategic plan that provides the steps an organisation needs to take to achieve stated outcomes and goals. It provides vision to the links among tasks and priorities for action in the near, medium and long term. Metrics and milestone provided by the roadmap allow the organisation having a regular tracking of progress towards the goals.
-There are specific key elements of a successful roadmap:
  
-  A roadmap will contain a clear statement of desire outcome that follow a specific pathway for reaching the goal. The pathway contains the following:
-  
-1.	Goals: A clear and concise set of targets that, if achieved, will result in the desired outcome; quantified goals.
-
-2.	Milestones: the interim performance targets for achieving the goals, pegged to specific dates.
-
-3.	Gaps and barriers: a list of any potential gaps in knowledge, technology limitations, market structural barriers, regulatory limitations, public acceptance or other barriers to achieving the goals and milestones.
-
-4.	Action items: actions that can be taken to overcome any gaps or barriers that stand in the way of achieving the goals; typical solution actions include technology development and deployment, development of regulations and standards, policy formulation, creation of financing mechanisms, and public engagement.
-
-5.	Priorities and timelines: a list of the most important actions that need to be taken in order to achieve the goals and the time frames, taking into account interconnections among those actions and stakeholder roles and relationships.
-
-IVA
-Internal Value analysis is a technique to measure whether a product is following the proposed strategy by meeting the product line at every stage by considering limited resource such as cost, time, risk and knowledge. 
-References 
-[1]   T. Gorschek and A. M. Davis, “Requirements engineering: In
-search of the dependent variables,” Inf. Softw. Technol., vol. 50, no.
-1–2, pp. 67–75, 2008.  
 
 SEMINAR 1:
 
